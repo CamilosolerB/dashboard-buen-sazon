@@ -1,0 +1,2902 @@
+fecha,categoria,producto,unidades,ingresos
+2026-02-20,Acompañante,Ensalada de la Casa,1,4000.0
+2026-02-20,Acompañante,Huevo Adicional,1,2000.0
+2026-02-20,Acompañante,Papas Fritas,1,5000.0
+2026-02-20,Acompañante,Patacones,2,10000.0
+2026-02-20,Acompañante,Porción de Arroz,1,3000.0
+2026-02-20,Almuerzo,Almuerzo Corriente,31,186000.0
+2026-02-20,Almuerzo,Almuerzo Ejecutivo,30,390000.0
+2026-02-20,Almuerzo,Almuerzo Tradicional,27,297000.0
+2026-02-20,Cerveza,Cerveza Águila,1,4500.0
+2026-02-20,Desayuno,Desayuno Especial,3,42000.0
+2026-02-20,Desayuno,Desayuno Sencillo,5,30000.0
+2026-02-20,Desayuno,Desayuno Tradicional,4,48000.0
+2026-02-20,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-02-20,Gaseosa,Gaseosa Personal,16,56000.0
+2026-02-21,Acompañante,Huevo Adicional,2,4000.0
+2026-02-21,Acompañante,Papas Fritas,2,10000.0
+2026-02-21,Acompañante,Patacones,2,10000.0
+2026-02-21,Acompañante,Porción de Arroz,2,6000.0
+2026-02-21,Almuerzo,Almuerzo Corriente,27,162000.0
+2026-02-21,Almuerzo,Almuerzo Ejecutivo,25,325000.0
+2026-02-21,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-02-21,Cerveza,Cerveza Águila,2,9000.0
+2026-02-21,Desayuno,Desayuno Especial,4,56000.0
+2026-02-21,Desayuno,Desayuno Sencillo,8,48000.0
+2026-02-21,Desayuno,Desayuno Tradicional,2,24000.0
+2026-02-21,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-02-21,Gaseosa,Gaseosa Personal,12,42000.0
+2026-02-22,Acompañante,Ensalada de la Casa,2,8000.0
+2026-02-22,Acompañante,Huevo Adicional,2,4000.0
+2026-02-22,Acompañante,Papas Fritas,1,5000.0
+2026-02-22,Acompañante,Patacones,1,5000.0
+2026-02-22,Acompañante,Porción de Arroz,6,18000.0
+2026-02-22,Almuerzo,Almuerzo Corriente,30,180000.0
+2026-02-22,Almuerzo,Almuerzo Ejecutivo,30,390000.0
+2026-02-22,Almuerzo,Almuerzo Tradicional,30,330000.0
+2026-02-22,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-02-22,Desayuno,Desayuno Especial,3,42000.0
+2026-02-22,Desayuno,Desayuno Sencillo,6,36000.0
+2026-02-22,Desayuno,Desayuno Tradicional,4,48000.0
+2026-02-22,Gaseosa,Gaseosa 1.5 L,1,7000.0
+2026-02-22,Gaseosa,Gaseosa Personal,19,66500.0
+2026-02-23,Acompañante,Ensalada de la Casa,1,4000.0
+2026-02-23,Acompañante,Huevo Adicional,3,6000.0
+2026-02-23,Acompañante,Papas Fritas,1,5000.0
+2026-02-23,Acompañante,Patacones,2,10000.0
+2026-02-23,Acompañante,Porción de Arroz,4,12000.0
+2026-02-23,Almuerzo,Almuerzo Corriente,22,132000.0
+2026-02-23,Almuerzo,Almuerzo Ejecutivo,36,468000.0
+2026-02-23,Almuerzo,Almuerzo Tradicional,26,286000.0
+2026-02-23,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-02-23,Cerveza,Cerveza Águila,1,4500.0
+2026-02-23,Desayuno,Desayuno Especial,3,42000.0
+2026-02-23,Desayuno,Desayuno Sencillo,6,36000.0
+2026-02-23,Desayuno,Desayuno Tradicional,4,48000.0
+2026-02-23,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-02-23,Gaseosa,Gaseosa Personal,19,66500.0
+2026-02-24,Acompañante,Ensalada de la Casa,2,8000.0
+2026-02-24,Acompañante,Huevo Adicional,2,4000.0
+2026-02-24,Acompañante,Papas Fritas,1,5000.0
+2026-02-24,Acompañante,Patacones,2,10000.0
+2026-02-24,Acompañante,Porción de Arroz,1,3000.0
+2026-02-24,Almuerzo,Almuerzo Corriente,32,192000.0
+2026-02-24,Almuerzo,Almuerzo Ejecutivo,20,260000.0
+2026-02-24,Almuerzo,Almuerzo Tradicional,33,363000.0
+2026-02-24,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-02-24,Cerveza,Cerveza Poker,1,4000.0
+2026-02-24,Cerveza,Cerveza Águila,1,4500.0
+2026-02-24,Desayuno,Desayuno Especial,5,70000.0
+2026-02-24,Desayuno,Desayuno Sencillo,5,30000.0
+2026-02-24,Desayuno,Desayuno Tradicional,10,120000.0
+2026-02-24,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-02-24,Gaseosa,Gaseosa Personal,17,59500.0
+2026-02-25,Acompañante,Ensalada de la Casa,1,4000.0
+2026-02-25,Acompañante,Huevo Adicional,2,4000.0
+2026-02-25,Acompañante,Papas Fritas,3,15000.0
+2026-02-25,Acompañante,Patacones,2,10000.0
+2026-02-25,Acompañante,Porción de Arroz,1,3000.0
+2026-02-25,Almuerzo,Almuerzo Corriente,25,150000.0
+2026-02-25,Almuerzo,Almuerzo Ejecutivo,31,403000.0
+2026-02-25,Almuerzo,Almuerzo Tradicional,15,165000.0
+2026-02-25,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-02-25,Desayuno,Desayuno Especial,10,140000.0
+2026-02-25,Desayuno,Desayuno Sencillo,7,42000.0
+2026-02-25,Desayuno,Desayuno Tradicional,7,84000.0
+2026-02-25,Gaseosa,Gaseosa 1.5 L,6,42000.0
+2026-02-25,Gaseosa,Gaseosa Personal,12,42000.0
+2026-02-26,Acompañante,Ensalada de la Casa,2,8000.0
+2026-02-26,Acompañante,Papas Fritas,1,5000.0
+2026-02-26,Acompañante,Patacones,2,10000.0
+2026-02-26,Almuerzo,Almuerzo Corriente,33,198000.0
+2026-02-26,Almuerzo,Almuerzo Ejecutivo,22,286000.0
+2026-02-26,Almuerzo,Almuerzo Tradicional,23,253000.0
+2026-02-26,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-02-26,Desayuno,Desayuno Especial,4,56000.0
+2026-02-26,Desayuno,Desayuno Sencillo,5,30000.0
+2026-02-26,Desayuno,Desayuno Tradicional,8,96000.0
+2026-02-26,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-02-26,Gaseosa,Gaseosa Personal,17,59500.0
+2026-02-27,Acompañante,Ensalada de la Casa,1,4000.0
+2026-02-27,Acompañante,Huevo Adicional,2,4000.0
+2026-02-27,Acompañante,Papas Fritas,2,10000.0
+2026-02-27,Acompañante,Patacones,2,10000.0
+2026-02-27,Acompañante,Porción de Arroz,7,21000.0
+2026-02-27,Almuerzo,Almuerzo Corriente,27,162000.0
+2026-02-27,Almuerzo,Almuerzo Ejecutivo,23,299000.0
+2026-02-27,Almuerzo,Almuerzo Tradicional,32,352000.0
+2026-02-27,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-02-27,Cerveza,Cerveza Poker,2,8000.0
+2026-02-27,Cerveza,Cerveza Águila,1,4500.0
+2026-02-27,Desayuno,Desayuno Especial,8,112000.0
+2026-02-27,Desayuno,Desayuno Sencillo,3,18000.0
+2026-02-27,Desayuno,Desayuno Tradicional,7,84000.0
+2026-02-27,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-02-27,Gaseosa,Gaseosa Personal,15,52500.0
+2026-02-28,Acompañante,Ensalada de la Casa,5,20000.0
+2026-02-28,Acompañante,Papas Fritas,3,15000.0
+2026-02-28,Acompañante,Patacones,1,5000.0
+2026-02-28,Acompañante,Porción de Arroz,3,9000.0
+2026-02-28,Almuerzo,Almuerzo Corriente,36,216000.0
+2026-02-28,Almuerzo,Almuerzo Ejecutivo,22,286000.0
+2026-02-28,Almuerzo,Almuerzo Tradicional,22,242000.0
+2026-02-28,Desayuno,Desayuno Especial,3,42000.0
+2026-02-28,Desayuno,Desayuno Sencillo,8,48000.0
+2026-02-28,Desayuno,Desayuno Tradicional,8,96000.0
+2026-02-28,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-02-28,Gaseosa,Gaseosa Personal,24,84000.0
+2026-03-01,Acompañante,Ensalada de la Casa,1,4000.0
+2026-03-01,Acompañante,Papas Fritas,2,10000.0
+2026-03-01,Acompañante,Patacones,2,10000.0
+2026-03-01,Acompañante,Porción de Arroz,1,3000.0
+2026-03-01,Almuerzo,Almuerzo Corriente,31,186000.0
+2026-03-01,Almuerzo,Almuerzo Ejecutivo,34,442000.0
+2026-03-01,Almuerzo,Almuerzo Tradicional,24,264000.0
+2026-03-01,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-03-01,Desayuno,Desayuno Especial,5,70000.0
+2026-03-01,Desayuno,Desayuno Sencillo,6,36000.0
+2026-03-01,Desayuno,Desayuno Tradicional,1,12000.0
+2026-03-01,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-03-01,Gaseosa,Gaseosa Personal,16,56000.0
+2026-03-02,Acompañante,Huevo Adicional,3,6000.0
+2026-03-02,Acompañante,Papas Fritas,3,15000.0
+2026-03-02,Acompañante,Patacones,2,10000.0
+2026-03-02,Acompañante,Porción de Arroz,3,9000.0
+2026-03-02,Almuerzo,Almuerzo Corriente,36,216000.0
+2026-03-02,Almuerzo,Almuerzo Ejecutivo,30,390000.0
+2026-03-02,Almuerzo,Almuerzo Tradicional,20,220000.0
+2026-03-02,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-03-02,Cerveza,Cerveza Poker,1,4000.0
+2026-03-02,Cerveza,Cerveza Águila,3,13500.0
+2026-03-02,Desayuno,Desayuno Especial,3,42000.0
+2026-03-02,Desayuno,Desayuno Sencillo,6,36000.0
+2026-03-02,Desayuno,Desayuno Tradicional,6,72000.0
+2026-03-02,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-03-02,Gaseosa,Gaseosa Personal,12,42000.0
+2026-03-03,Acompañante,Ensalada de la Casa,3,12000.0
+2026-03-03,Acompañante,Huevo Adicional,2,4000.0
+2026-03-03,Acompañante,Papas Fritas,1,5000.0
+2026-03-03,Acompañante,Patacones,2,10000.0
+2026-03-03,Acompañante,Porción de Arroz,2,6000.0
+2026-03-03,Almuerzo,Almuerzo Corriente,26,156000.0
+2026-03-03,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-03-03,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-03-03,Cerveza,Cerveza Águila,1,4500.0
+2026-03-03,Desayuno,Desayuno Especial,8,112000.0
+2026-03-03,Desayuno,Desayuno Sencillo,5,30000.0
+2026-03-03,Desayuno,Desayuno Tradicional,5,60000.0
+2026-03-03,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-03-03,Gaseosa,Gaseosa Personal,11,38500.0
+2026-03-04,Acompañante,Ensalada de la Casa,1,4000.0
+2026-03-04,Acompañante,Patacones,1,5000.0
+2026-03-04,Acompañante,Porción de Arroz,1,3000.0
+2026-03-04,Almuerzo,Almuerzo Corriente,26,156000.0
+2026-03-04,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-03-04,Almuerzo,Almuerzo Tradicional,27,297000.0
+2026-03-04,Cerveza,Cerveza Poker,2,8000.0
+2026-03-04,Desayuno,Desayuno Especial,4,56000.0
+2026-03-04,Desayuno,Desayuno Sencillo,3,18000.0
+2026-03-04,Desayuno,Desayuno Tradicional,7,84000.0
+2026-03-04,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-03-04,Gaseosa,Gaseosa Personal,19,66500.0
+2026-03-05,Acompañante,Huevo Adicional,1,2000.0
+2026-03-05,Acompañante,Papas Fritas,1,5000.0
+2026-03-05,Acompañante,Porción de Arroz,8,24000.0
+2026-03-05,Almuerzo,Almuerzo Corriente,36,216000.0
+2026-03-05,Almuerzo,Almuerzo Ejecutivo,19,247000.0
+2026-03-05,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-03-05,Cerveza,Cerveza Águila,4,18000.0
+2026-03-05,Desayuno,Desayuno Especial,5,70000.0
+2026-03-05,Desayuno,Desayuno Sencillo,5,30000.0
+2026-03-05,Desayuno,Desayuno Tradicional,6,72000.0
+2026-03-05,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-03-05,Gaseosa,Gaseosa Personal,13,45500.0
+2026-03-06,Acompañante,Ensalada de la Casa,1,4000.0
+2026-03-06,Acompañante,Huevo Adicional,4,8000.0
+2026-03-06,Acompañante,Papas Fritas,2,10000.0
+2026-03-06,Acompañante,Patacones,2,10000.0
+2026-03-06,Acompañante,Porción de Arroz,2,6000.0
+2026-03-06,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-03-06,Almuerzo,Almuerzo Ejecutivo,36,468000.0
+2026-03-06,Almuerzo,Almuerzo Tradicional,19,209000.0
+2026-03-06,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-03-06,Cerveza,Cerveza Poker,1,4000.0
+2026-03-06,Cerveza,Cerveza Águila,3,13500.0
+2026-03-06,Desayuno,Desayuno Especial,2,28000.0
+2026-03-06,Desayuno,Desayuno Sencillo,7,42000.0
+2026-03-06,Desayuno,Desayuno Tradicional,6,72000.0
+2026-03-06,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-03-06,Gaseosa,Gaseosa Personal,16,56000.0
+2026-03-07,Acompañante,Ensalada de la Casa,1,4000.0
+2026-03-07,Acompañante,Huevo Adicional,1,2000.0
+2026-03-07,Acompañante,Papas Fritas,2,10000.0
+2026-03-07,Acompañante,Patacones,1,5000.0
+2026-03-07,Acompañante,Porción de Arroz,1,3000.0
+2026-03-07,Almuerzo,Almuerzo Corriente,26,156000.0
+2026-03-07,Almuerzo,Almuerzo Ejecutivo,27,351000.0
+2026-03-07,Almuerzo,Almuerzo Tradicional,28,308000.0
+2026-03-07,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-03-07,Cerveza,Cerveza Águila,1,4500.0
+2026-03-07,Desayuno,Desayuno Especial,9,126000.0
+2026-03-07,Desayuno,Desayuno Sencillo,5,30000.0
+2026-03-07,Desayuno,Desayuno Tradicional,4,48000.0
+2026-03-07,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-03-07,Gaseosa,Gaseosa Personal,19,66500.0
+2026-03-08,Acompañante,Ensalada de la Casa,3,12000.0
+2026-03-08,Acompañante,Huevo Adicional,2,4000.0
+2026-03-08,Acompañante,Papas Fritas,2,10000.0
+2026-03-08,Acompañante,Patacones,1,5000.0
+2026-03-08,Acompañante,Porción de Arroz,3,9000.0
+2026-03-08,Almuerzo,Almuerzo Corriente,28,168000.0
+2026-03-08,Almuerzo,Almuerzo Ejecutivo,24,312000.0
+2026-03-08,Almuerzo,Almuerzo Tradicional,35,385000.0
+2026-03-08,Cerveza,Cerveza Águila,1,4500.0
+2026-03-08,Desayuno,Desayuno Especial,5,70000.0
+2026-03-08,Desayuno,Desayuno Sencillo,2,12000.0
+2026-03-08,Desayuno,Desayuno Tradicional,6,72000.0
+2026-03-08,Gaseosa,Gaseosa 1.5 L,7,49000.0
+2026-03-08,Gaseosa,Gaseosa Personal,11,38500.0
+2026-03-09,Acompañante,Ensalada de la Casa,3,12000.0
+2026-03-09,Acompañante,Huevo Adicional,3,6000.0
+2026-03-09,Acompañante,Papas Fritas,2,10000.0
+2026-03-09,Acompañante,Porción de Arroz,1,3000.0
+2026-03-09,Almuerzo,Almuerzo Corriente,24,144000.0
+2026-03-09,Almuerzo,Almuerzo Ejecutivo,30,390000.0
+2026-03-09,Almuerzo,Almuerzo Tradicional,25,275000.0
+2026-03-09,Cerveza,Cerveza Poker,2,8000.0
+2026-03-09,Cerveza,Cerveza Águila,1,4500.0
+2026-03-09,Desayuno,Desayuno Especial,7,98000.0
+2026-03-09,Desayuno,Desayuno Sencillo,9,54000.0
+2026-03-09,Desayuno,Desayuno Tradicional,6,72000.0
+2026-03-09,Gaseosa,Gaseosa 1.5 L,9,63000.0
+2026-03-09,Gaseosa,Gaseosa Personal,16,56000.0
+2026-03-10,Acompañante,Huevo Adicional,1,2000.0
+2026-03-10,Acompañante,Papas Fritas,1,5000.0
+2026-03-10,Acompañante,Patacones,1,5000.0
+2026-03-10,Acompañante,Porción de Arroz,3,9000.0
+2026-03-10,Almuerzo,Almuerzo Corriente,25,150000.0
+2026-03-10,Almuerzo,Almuerzo Ejecutivo,27,351000.0
+2026-03-10,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-03-10,Desayuno,Desayuno Especial,7,98000.0
+2026-03-10,Desayuno,Desayuno Sencillo,3,18000.0
+2026-03-10,Desayuno,Desayuno Tradicional,4,48000.0
+2026-03-10,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-03-10,Gaseosa,Gaseosa Personal,12,42000.0
+2026-03-11,Acompañante,Ensalada de la Casa,1,4000.0
+2026-03-11,Acompañante,Papas Fritas,2,10000.0
+2026-03-11,Acompañante,Patacones,2,10000.0
+2026-03-11,Acompañante,Porción de Arroz,5,15000.0
+2026-03-11,Almuerzo,Almuerzo Corriente,27,162000.0
+2026-03-11,Almuerzo,Almuerzo Ejecutivo,30,390000.0
+2026-03-11,Almuerzo,Almuerzo Tradicional,26,286000.0
+2026-03-11,Cerveza,Cerveza Águila,3,13500.0
+2026-03-11,Desayuno,Desayuno Especial,1,14000.0
+2026-03-11,Desayuno,Desayuno Sencillo,6,36000.0
+2026-03-11,Desayuno,Desayuno Tradicional,4,48000.0
+2026-03-11,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-03-11,Gaseosa,Gaseosa Personal,15,52500.0
+2026-03-12,Acompañante,Ensalada de la Casa,2,8000.0
+2026-03-12,Acompañante,Papas Fritas,3,15000.0
+2026-03-12,Acompañante,Patacones,2,10000.0
+2026-03-12,Acompañante,Porción de Arroz,3,9000.0
+2026-03-12,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-03-12,Almuerzo,Almuerzo Ejecutivo,34,442000.0
+2026-03-12,Almuerzo,Almuerzo Tradicional,25,275000.0
+2026-03-12,Cerveza,Cerveza Poker,1,4000.0
+2026-03-12,Desayuno,Desayuno Especial,3,42000.0
+2026-03-12,Desayuno,Desayuno Sencillo,6,36000.0
+2026-03-12,Desayuno,Desayuno Tradicional,3,36000.0
+2026-03-12,Gaseosa,Gaseosa 1.5 L,1,7000.0
+2026-03-12,Gaseosa,Gaseosa Personal,4,14000.0
+2026-03-13,Acompañante,Ensalada de la Casa,2,8000.0
+2026-03-13,Acompañante,Papas Fritas,3,15000.0
+2026-03-13,Acompañante,Patacones,5,25000.0
+2026-03-13,Acompañante,Porción de Arroz,4,12000.0
+2026-03-13,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-03-13,Almuerzo,Almuerzo Ejecutivo,22,286000.0
+2026-03-13,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-03-13,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-03-13,Desayuno,Desayuno Especial,5,70000.0
+2026-03-13,Desayuno,Desayuno Sencillo,1,6000.0
+2026-03-13,Desayuno,Desayuno Tradicional,10,120000.0
+2026-03-13,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-03-13,Gaseosa,Gaseosa Personal,17,59500.0
+2026-03-14,Acompañante,Ensalada de la Casa,1,4000.0
+2026-03-14,Acompañante,Huevo Adicional,2,4000.0
+2026-03-14,Acompañante,Papas Fritas,2,10000.0
+2026-03-14,Acompañante,Patacones,2,10000.0
+2026-03-14,Acompañante,Porción de Arroz,1,3000.0
+2026-03-14,Almuerzo,Almuerzo Corriente,34,204000.0
+2026-03-14,Almuerzo,Almuerzo Ejecutivo,29,377000.0
+2026-03-14,Almuerzo,Almuerzo Tradicional,21,231000.0
+2026-03-14,Desayuno,Desayuno Especial,4,56000.0
+2026-03-14,Desayuno,Desayuno Sencillo,5,30000.0
+2026-03-14,Desayuno,Desayuno Tradicional,6,72000.0
+2026-03-14,Gaseosa,Gaseosa 1.5 L,1,7000.0
+2026-03-14,Gaseosa,Gaseosa Personal,18,63000.0
+2026-03-15,Acompañante,Patacones,3,15000.0
+2026-03-15,Acompañante,Porción de Arroz,1,3000.0
+2026-03-15,Almuerzo,Almuerzo Corriente,28,168000.0
+2026-03-15,Almuerzo,Almuerzo Ejecutivo,29,377000.0
+2026-03-15,Almuerzo,Almuerzo Tradicional,30,330000.0
+2026-03-15,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-03-15,Desayuno,Desayuno Especial,6,84000.0
+2026-03-15,Desayuno,Desayuno Sencillo,5,30000.0
+2026-03-15,Desayuno,Desayuno Tradicional,4,48000.0
+2026-03-15,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-03-15,Gaseosa,Gaseosa Personal,14,49000.0
+2026-03-16,Acompañante,Ensalada de la Casa,1,4000.0
+2026-03-16,Acompañante,Huevo Adicional,3,6000.0
+2026-03-16,Acompañante,Papas Fritas,2,10000.0
+2026-03-16,Acompañante,Patacones,5,25000.0
+2026-03-16,Acompañante,Porción de Arroz,5,15000.0
+2026-03-16,Almuerzo,Almuerzo Corriente,26,156000.0
+2026-03-16,Almuerzo,Almuerzo Ejecutivo,29,377000.0
+2026-03-16,Almuerzo,Almuerzo Tradicional,30,330000.0
+2026-03-16,Cerveza,Cerveza Poker,1,4000.0
+2026-03-16,Cerveza,Cerveza Águila,1,4500.0
+2026-03-16,Desayuno,Desayuno Especial,8,112000.0
+2026-03-16,Desayuno,Desayuno Sencillo,3,18000.0
+2026-03-16,Desayuno,Desayuno Tradicional,3,36000.0
+2026-03-16,Gaseosa,Gaseosa 1.5 L,1,7000.0
+2026-03-16,Gaseosa,Gaseosa Personal,15,52500.0
+2026-03-17,Acompañante,Ensalada de la Casa,2,8000.0
+2026-03-17,Acompañante,Huevo Adicional,3,6000.0
+2026-03-17,Acompañante,Papas Fritas,3,15000.0
+2026-03-17,Acompañante,Patacones,2,10000.0
+2026-03-17,Almuerzo,Almuerzo Corriente,22,132000.0
+2026-03-17,Almuerzo,Almuerzo Ejecutivo,34,442000.0
+2026-03-17,Almuerzo,Almuerzo Tradicional,22,242000.0
+2026-03-17,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-03-17,Cerveza,Cerveza Poker,1,4000.0
+2026-03-17,Cerveza,Cerveza Águila,2,9000.0
+2026-03-17,Desayuno,Desayuno Especial,6,84000.0
+2026-03-17,Desayuno,Desayuno Sencillo,5,30000.0
+2026-03-17,Desayuno,Desayuno Tradicional,7,84000.0
+2026-03-17,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-03-17,Gaseosa,Gaseosa Personal,16,56000.0
+2026-03-18,Acompañante,Ensalada de la Casa,1,4000.0
+2026-03-18,Acompañante,Huevo Adicional,5,10000.0
+2026-03-18,Acompañante,Papas Fritas,2,10000.0
+2026-03-18,Acompañante,Patacones,3,15000.0
+2026-03-18,Almuerzo,Almuerzo Corriente,28,168000.0
+2026-03-18,Almuerzo,Almuerzo Ejecutivo,28,364000.0
+2026-03-18,Almuerzo,Almuerzo Tradicional,25,275000.0
+2026-03-18,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-03-18,Desayuno,Desayuno Especial,7,98000.0
+2026-03-18,Desayuno,Desayuno Sencillo,6,36000.0
+2026-03-18,Desayuno,Desayuno Tradicional,6,72000.0
+2026-03-18,Gaseosa,Gaseosa 1.5 L,1,7000.0
+2026-03-18,Gaseosa,Gaseosa Personal,19,66500.0
+2026-03-19,Acompañante,Ensalada de la Casa,2,8000.0
+2026-03-19,Acompañante,Huevo Adicional,1,2000.0
+2026-03-19,Acompañante,Papas Fritas,2,10000.0
+2026-03-19,Acompañante,Patacones,1,5000.0
+2026-03-19,Acompañante,Porción de Arroz,2,6000.0
+2026-03-19,Almuerzo,Almuerzo Corriente,32,192000.0
+2026-03-19,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-03-19,Almuerzo,Almuerzo Tradicional,26,286000.0
+2026-03-19,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-03-19,Cerveza,Cerveza Águila,3,13500.0
+2026-03-19,Desayuno,Desayuno Especial,7,98000.0
+2026-03-19,Desayuno,Desayuno Sencillo,6,36000.0
+2026-03-19,Desayuno,Desayuno Tradicional,2,24000.0
+2026-03-19,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-03-19,Gaseosa,Gaseosa Personal,9,31500.0
+2026-03-20,Acompañante,Ensalada de la Casa,4,16000.0
+2026-03-20,Acompañante,Huevo Adicional,2,4000.0
+2026-03-20,Acompañante,Papas Fritas,1,5000.0
+2026-03-20,Acompañante,Patacones,1,5000.0
+2026-03-20,Acompañante,Porción de Arroz,2,6000.0
+2026-03-20,Almuerzo,Almuerzo Corriente,21,126000.0
+2026-03-20,Almuerzo,Almuerzo Ejecutivo,33,429000.0
+2026-03-20,Almuerzo,Almuerzo Tradicional,25,275000.0
+2026-03-20,Desayuno,Desayuno Especial,4,56000.0
+2026-03-20,Desayuno,Desayuno Sencillo,8,48000.0
+2026-03-20,Desayuno,Desayuno Tradicional,7,84000.0
+2026-03-20,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-03-20,Gaseosa,Gaseosa Personal,14,49000.0
+2026-03-21,Acompañante,Ensalada de la Casa,1,4000.0
+2026-03-21,Acompañante,Huevo Adicional,1,2000.0
+2026-03-21,Acompañante,Papas Fritas,1,5000.0
+2026-03-21,Acompañante,Patacones,2,10000.0
+2026-03-21,Acompañante,Porción de Arroz,2,6000.0
+2026-03-21,Almuerzo,Almuerzo Corriente,34,204000.0
+2026-03-21,Almuerzo,Almuerzo Ejecutivo,29,377000.0
+2026-03-21,Almuerzo,Almuerzo Tradicional,23,253000.0
+2026-03-21,Cerveza,Cerveza Águila,2,9000.0
+2026-03-21,Desayuno,Desayuno Especial,2,28000.0
+2026-03-21,Desayuno,Desayuno Sencillo,4,24000.0
+2026-03-21,Desayuno,Desayuno Tradicional,5,60000.0
+2026-03-21,Gaseosa,Gaseosa 1.5 L,6,42000.0
+2026-03-21,Gaseosa,Gaseosa Personal,11,38500.0
+2026-03-22,Acompañante,Ensalada de la Casa,1,4000.0
+2026-03-22,Acompañante,Huevo Adicional,3,6000.0
+2026-03-22,Acompañante,Papas Fritas,3,15000.0
+2026-03-22,Acompañante,Patacones,2,10000.0
+2026-03-22,Acompañante,Porción de Arroz,3,9000.0
+2026-03-22,Almuerzo,Almuerzo Corriente,32,192000.0
+2026-03-22,Almuerzo,Almuerzo Ejecutivo,19,247000.0
+2026-03-22,Almuerzo,Almuerzo Tradicional,32,352000.0
+2026-03-22,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-03-22,Cerveza,Cerveza Águila,2,9000.0
+2026-03-22,Desayuno,Desayuno Especial,3,42000.0
+2026-03-22,Desayuno,Desayuno Sencillo,6,36000.0
+2026-03-22,Desayuno,Desayuno Tradicional,7,84000.0
+2026-03-22,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-03-22,Gaseosa,Gaseosa Personal,12,42000.0
+2026-03-23,Acompañante,Ensalada de la Casa,2,8000.0
+2026-03-23,Acompañante,Huevo Adicional,3,6000.0
+2026-03-23,Acompañante,Papas Fritas,1,5000.0
+2026-03-23,Acompañante,Patacones,3,15000.0
+2026-03-23,Acompañante,Porción de Arroz,5,15000.0
+2026-03-23,Almuerzo,Almuerzo Corriente,28,168000.0
+2026-03-23,Almuerzo,Almuerzo Ejecutivo,24,312000.0
+2026-03-23,Almuerzo,Almuerzo Tradicional,35,385000.0
+2026-03-23,Cerveza,Cerveza Poker,1,4000.0
+2026-03-23,Cerveza,Cerveza Águila,3,13500.0
+2026-03-23,Desayuno,Desayuno Especial,2,28000.0
+2026-03-23,Desayuno,Desayuno Sencillo,8,48000.0
+2026-03-23,Desayuno,Desayuno Tradicional,4,48000.0
+2026-03-23,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-03-23,Gaseosa,Gaseosa Personal,13,45500.0
+2026-03-24,Acompañante,Huevo Adicional,2,4000.0
+2026-03-24,Acompañante,Papas Fritas,4,20000.0
+2026-03-24,Acompañante,Patacones,4,20000.0
+2026-03-24,Acompañante,Porción de Arroz,3,9000.0
+2026-03-24,Almuerzo,Almuerzo Corriente,35,210000.0
+2026-03-24,Almuerzo,Almuerzo Ejecutivo,28,364000.0
+2026-03-24,Almuerzo,Almuerzo Tradicional,18,198000.0
+2026-03-24,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-03-24,Desayuno,Desayuno Especial,3,42000.0
+2026-03-24,Desayuno,Desayuno Sencillo,6,36000.0
+2026-03-24,Desayuno,Desayuno Tradicional,5,60000.0
+2026-03-24,Gaseosa,Gaseosa 1.5 L,8,56000.0
+2026-03-24,Gaseosa,Gaseosa Personal,10,35000.0
+2026-03-25,Acompañante,Ensalada de la Casa,1,4000.0
+2026-03-25,Acompañante,Huevo Adicional,1,2000.0
+2026-03-25,Acompañante,Papas Fritas,2,10000.0
+2026-03-25,Acompañante,Porción de Arroz,5,15000.0
+2026-03-25,Almuerzo,Almuerzo Corriente,31,186000.0
+2026-03-25,Almuerzo,Almuerzo Ejecutivo,25,325000.0
+2026-03-25,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-03-25,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-03-25,Cerveza,Cerveza Águila,2,9000.0
+2026-03-25,Desayuno,Desayuno Especial,11,154000.0
+2026-03-25,Desayuno,Desayuno Sencillo,3,18000.0
+2026-03-25,Desayuno,Desayuno Tradicional,6,72000.0
+2026-03-25,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-03-25,Gaseosa,Gaseosa Personal,17,59500.0
+2026-03-26,Acompañante,Ensalada de la Casa,2,8000.0
+2026-03-26,Acompañante,Huevo Adicional,2,4000.0
+2026-03-26,Acompañante,Patacones,2,10000.0
+2026-03-26,Acompañante,Porción de Arroz,4,12000.0
+2026-03-26,Almuerzo,Almuerzo Corriente,22,132000.0
+2026-03-26,Almuerzo,Almuerzo Ejecutivo,29,377000.0
+2026-03-26,Almuerzo,Almuerzo Tradicional,27,297000.0
+2026-03-26,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-03-26,Cerveza,Cerveza Águila,1,4500.0
+2026-03-26,Desayuno,Desayuno Especial,9,126000.0
+2026-03-26,Desayuno,Desayuno Sencillo,6,36000.0
+2026-03-26,Desayuno,Desayuno Tradicional,4,48000.0
+2026-03-26,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-03-26,Gaseosa,Gaseosa Personal,15,52500.0
+2026-03-27,Acompañante,Ensalada de la Casa,1,4000.0
+2026-03-27,Acompañante,Huevo Adicional,1,2000.0
+2026-03-27,Acompañante,Papas Fritas,4,20000.0
+2026-03-27,Acompañante,Porción de Arroz,3,9000.0
+2026-03-27,Almuerzo,Almuerzo Corriente,25,150000.0
+2026-03-27,Almuerzo,Almuerzo Ejecutivo,22,286000.0
+2026-03-27,Almuerzo,Almuerzo Tradicional,33,363000.0
+2026-03-27,Cerveza,Cerveza Águila,4,18000.0
+2026-03-27,Desayuno,Desayuno Especial,4,56000.0
+2026-03-27,Desayuno,Desayuno Sencillo,5,30000.0
+2026-03-27,Desayuno,Desayuno Tradicional,3,36000.0
+2026-03-27,Gaseosa,Gaseosa 1.5 L,6,42000.0
+2026-03-27,Gaseosa,Gaseosa Personal,9,31500.0
+2026-03-28,Acompañante,Ensalada de la Casa,4,16000.0
+2026-03-28,Acompañante,Huevo Adicional,1,2000.0
+2026-03-28,Acompañante,Papas Fritas,4,20000.0
+2026-03-28,Acompañante,Patacones,2,10000.0
+2026-03-28,Acompañante,Porción de Arroz,2,6000.0
+2026-03-28,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-03-28,Almuerzo,Almuerzo Ejecutivo,33,429000.0
+2026-03-28,Almuerzo,Almuerzo Tradicional,26,286000.0
+2026-03-28,Cerveza,Cerveza Poker,1,4000.0
+2026-03-28,Cerveza,Cerveza Águila,2,9000.0
+2026-03-28,Desayuno,Desayuno Especial,7,98000.0
+2026-03-28,Desayuno,Desayuno Sencillo,4,24000.0
+2026-03-28,Desayuno,Desayuno Tradicional,7,84000.0
+2026-03-28,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-03-28,Gaseosa,Gaseosa Personal,12,42000.0
+2026-03-29,Acompañante,Huevo Adicional,1,2000.0
+2026-03-29,Acompañante,Papas Fritas,3,15000.0
+2026-03-29,Acompañante,Patacones,3,15000.0
+2026-03-29,Acompañante,Porción de Arroz,3,9000.0
+2026-03-29,Almuerzo,Almuerzo Corriente,27,162000.0
+2026-03-29,Almuerzo,Almuerzo Ejecutivo,28,364000.0
+2026-03-29,Almuerzo,Almuerzo Tradicional,26,286000.0
+2026-03-29,Cerveza,Cerveza Poker,1,4000.0
+2026-03-29,Cerveza,Cerveza Águila,3,13500.0
+2026-03-29,Desayuno,Desayuno Especial,5,70000.0
+2026-03-29,Desayuno,Desayuno Sencillo,4,24000.0
+2026-03-29,Desayuno,Desayuno Tradicional,8,96000.0
+2026-03-29,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-03-29,Gaseosa,Gaseosa Personal,9,31500.0
+2026-03-30,Acompañante,Ensalada de la Casa,1,4000.0
+2026-03-30,Acompañante,Huevo Adicional,2,4000.0
+2026-03-30,Acompañante,Patacones,3,15000.0
+2026-03-30,Acompañante,Porción de Arroz,2,6000.0
+2026-03-30,Almuerzo,Almuerzo Corriente,27,162000.0
+2026-03-30,Almuerzo,Almuerzo Ejecutivo,24,312000.0
+2026-03-30,Almuerzo,Almuerzo Tradicional,30,330000.0
+2026-03-30,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-03-30,Cerveza,Cerveza Poker,1,4000.0
+2026-03-30,Desayuno,Desayuno Especial,7,98000.0
+2026-03-30,Desayuno,Desayuno Sencillo,3,18000.0
+2026-03-30,Desayuno,Desayuno Tradicional,8,96000.0
+2026-03-30,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-03-30,Gaseosa,Gaseosa Personal,18,63000.0
+2026-03-31,Acompañante,Ensalada de la Casa,1,4000.0
+2026-03-31,Acompañante,Huevo Adicional,2,4000.0
+2026-03-31,Acompañante,Papas Fritas,3,15000.0
+2026-03-31,Acompañante,Patacones,5,25000.0
+2026-03-31,Acompañante,Porción de Arroz,3,9000.0
+2026-03-31,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-03-31,Almuerzo,Almuerzo Ejecutivo,32,416000.0
+2026-03-31,Almuerzo,Almuerzo Tradicional,25,275000.0
+2026-03-31,Cerveza,Cerveza Águila,1,4500.0
+2026-03-31,Desayuno,Desayuno Especial,6,84000.0
+2026-03-31,Desayuno,Desayuno Sencillo,5,30000.0
+2026-03-31,Desayuno,Desayuno Tradicional,4,48000.0
+2026-03-31,Gaseosa,Gaseosa 1.5 L,6,42000.0
+2026-03-31,Gaseosa,Gaseosa Personal,14,49000.0
+2026-04-01,Acompañante,Ensalada de la Casa,1,4000.0
+2026-04-01,Acompañante,Huevo Adicional,2,4000.0
+2026-04-01,Acompañante,Papas Fritas,4,20000.0
+2026-04-01,Acompañante,Patacones,2,10000.0
+2026-04-01,Acompañante,Porción de Arroz,5,15000.0
+2026-04-01,Almuerzo,Almuerzo Corriente,28,168000.0
+2026-04-01,Almuerzo,Almuerzo Ejecutivo,31,403000.0
+2026-04-01,Almuerzo,Almuerzo Tradicional,28,308000.0
+2026-04-01,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-04-01,Cerveza,Cerveza Poker,1,4000.0
+2026-04-01,Cerveza,Cerveza Águila,3,13500.0
+2026-04-01,Desayuno,Desayuno Especial,6,84000.0
+2026-04-01,Desayuno,Desayuno Sencillo,3,18000.0
+2026-04-01,Desayuno,Desayuno Tradicional,4,48000.0
+2026-04-01,Gaseosa,Gaseosa 1.5 L,6,42000.0
+2026-04-01,Gaseosa,Gaseosa Personal,12,42000.0
+2026-04-02,Acompañante,Ensalada de la Casa,4,16000.0
+2026-04-02,Acompañante,Huevo Adicional,1,2000.0
+2026-04-02,Acompañante,Papas Fritas,5,25000.0
+2026-04-02,Acompañante,Patacones,3,15000.0
+2026-04-02,Acompañante,Porción de Arroz,5,15000.0
+2026-04-02,Almuerzo,Almuerzo Corriente,23,138000.0
+2026-04-02,Almuerzo,Almuerzo Ejecutivo,36,468000.0
+2026-04-02,Almuerzo,Almuerzo Tradicional,23,253000.0
+2026-04-02,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-04-02,Cerveza,Cerveza Águila,3,13500.0
+2026-04-02,Desayuno,Desayuno Especial,8,112000.0
+2026-04-02,Desayuno,Desayuno Sencillo,5,30000.0
+2026-04-02,Desayuno,Desayuno Tradicional,2,24000.0
+2026-04-02,Gaseosa,Gaseosa Personal,16,56000.0
+2026-04-03,Acompañante,Ensalada de la Casa,5,20000.0
+2026-04-03,Acompañante,Huevo Adicional,3,6000.0
+2026-04-03,Acompañante,Papas Fritas,1,5000.0
+2026-04-03,Acompañante,Porción de Arroz,3,9000.0
+2026-04-03,Almuerzo,Almuerzo Corriente,30,180000.0
+2026-04-03,Almuerzo,Almuerzo Ejecutivo,27,351000.0
+2026-04-03,Almuerzo,Almuerzo Tradicional,27,297000.0
+2026-04-03,Cerveza,Cerveza Águila,1,4500.0
+2026-04-03,Desayuno,Desayuno Especial,3,42000.0
+2026-04-03,Desayuno,Desayuno Sencillo,5,30000.0
+2026-04-03,Desayuno,Desayuno Tradicional,5,60000.0
+2026-04-03,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-04-03,Gaseosa,Gaseosa Personal,10,35000.0
+2026-04-04,Acompañante,Ensalada de la Casa,2,8000.0
+2026-04-04,Acompañante,Huevo Adicional,2,4000.0
+2026-04-04,Acompañante,Papas Fritas,1,5000.0
+2026-04-04,Acompañante,Patacones,2,10000.0
+2026-04-04,Acompañante,Porción de Arroz,2,6000.0
+2026-04-04,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-04-04,Almuerzo,Almuerzo Ejecutivo,37,481000.0
+2026-04-04,Almuerzo,Almuerzo Tradicional,15,165000.0
+2026-04-04,Cerveza,Cerveza Águila,1,4500.0
+2026-04-04,Desayuno,Desayuno Especial,7,98000.0
+2026-04-04,Desayuno,Desayuno Sencillo,7,42000.0
+2026-04-04,Desayuno,Desayuno Tradicional,7,84000.0
+2026-04-04,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-04-04,Gaseosa,Gaseosa Personal,11,38500.0
+2026-04-05,Acompañante,Huevo Adicional,7,14000.0
+2026-04-05,Acompañante,Papas Fritas,3,15000.0
+2026-04-05,Acompañante,Patacones,3,15000.0
+2026-04-05,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-04-05,Almuerzo,Almuerzo Ejecutivo,31,403000.0
+2026-04-05,Almuerzo,Almuerzo Tradicional,25,275000.0
+2026-04-05,Cerveza,Cerveza Poker,1,4000.0
+2026-04-05,Cerveza,Cerveza Águila,1,4500.0
+2026-04-05,Desayuno,Desayuno Especial,6,84000.0
+2026-04-05,Desayuno,Desayuno Sencillo,2,12000.0
+2026-04-05,Desayuno,Desayuno Tradicional,6,72000.0
+2026-04-05,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-04-05,Gaseosa,Gaseosa Personal,11,38500.0
+2026-04-06,Acompañante,Ensalada de la Casa,1,4000.0
+2026-04-06,Acompañante,Huevo Adicional,3,6000.0
+2026-04-06,Acompañante,Papas Fritas,1,5000.0
+2026-04-06,Acompañante,Patacones,2,10000.0
+2026-04-06,Acompañante,Porción de Arroz,1,3000.0
+2026-04-06,Almuerzo,Almuerzo Corriente,28,168000.0
+2026-04-06,Almuerzo,Almuerzo Ejecutivo,32,416000.0
+2026-04-06,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-04-06,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-04-06,Cerveza,Cerveza Poker,2,8000.0
+2026-04-06,Desayuno,Desayuno Especial,5,70000.0
+2026-04-06,Desayuno,Desayuno Sencillo,7,42000.0
+2026-04-06,Desayuno,Desayuno Tradicional,5,60000.0
+2026-04-06,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-04-06,Gaseosa,Gaseosa Personal,16,56000.0
+2026-04-07,Acompañante,Ensalada de la Casa,2,8000.0
+2026-04-07,Acompañante,Huevo Adicional,4,8000.0
+2026-04-07,Acompañante,Patacones,1,5000.0
+2026-04-07,Acompañante,Porción de Arroz,3,9000.0
+2026-04-07,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-04-07,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-04-07,Almuerzo,Almuerzo Tradicional,22,242000.0
+2026-04-07,Desayuno,Desayuno Especial,6,84000.0
+2026-04-07,Desayuno,Desayuno Sencillo,6,36000.0
+2026-04-07,Desayuno,Desayuno Tradicional,9,108000.0
+2026-04-07,Gaseosa,Gaseosa 1.5 L,7,49000.0
+2026-04-07,Gaseosa,Gaseosa Personal,17,59500.0
+2026-04-08,Acompañante,Ensalada de la Casa,2,8000.0
+2026-04-08,Acompañante,Papas Fritas,1,5000.0
+2026-04-08,Acompañante,Patacones,3,15000.0
+2026-04-08,Acompañante,Porción de Arroz,2,6000.0
+2026-04-08,Almuerzo,Almuerzo Corriente,25,150000.0
+2026-04-08,Almuerzo,Almuerzo Ejecutivo,28,364000.0
+2026-04-08,Almuerzo,Almuerzo Tradicional,21,231000.0
+2026-04-08,Desayuno,Desayuno Especial,11,154000.0
+2026-04-08,Desayuno,Desayuno Sencillo,4,24000.0
+2026-04-08,Desayuno,Desayuno Tradicional,6,72000.0
+2026-04-08,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-04-08,Gaseosa,Gaseosa Personal,12,42000.0
+2026-04-09,Acompañante,Ensalada de la Casa,4,16000.0
+2026-04-09,Acompañante,Huevo Adicional,1,2000.0
+2026-04-09,Acompañante,Porción de Arroz,3,9000.0
+2026-04-09,Almuerzo,Almuerzo Corriente,32,192000.0
+2026-04-09,Almuerzo,Almuerzo Ejecutivo,25,325000.0
+2026-04-09,Almuerzo,Almuerzo Tradicional,27,297000.0
+2026-04-09,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-04-09,Cerveza,Cerveza Águila,1,4500.0
+2026-04-09,Desayuno,Desayuno Especial,9,126000.0
+2026-04-09,Desayuno,Desayuno Sencillo,3,18000.0
+2026-04-09,Desayuno,Desayuno Tradicional,4,48000.0
+2026-04-09,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-04-09,Gaseosa,Gaseosa Personal,12,42000.0
+2026-04-10,Acompañante,Patacones,3,15000.0
+2026-04-10,Acompañante,Porción de Arroz,2,6000.0
+2026-04-10,Almuerzo,Almuerzo Corriente,25,150000.0
+2026-04-10,Almuerzo,Almuerzo Ejecutivo,30,390000.0
+2026-04-10,Almuerzo,Almuerzo Tradicional,28,308000.0
+2026-04-10,Cerveza,Cerveza Águila,4,18000.0
+2026-04-10,Desayuno,Desayuno Especial,5,70000.0
+2026-04-10,Desayuno,Desayuno Sencillo,6,36000.0
+2026-04-10,Desayuno,Desayuno Tradicional,3,36000.0
+2026-04-10,Gaseosa,Gaseosa 1.5 L,6,42000.0
+2026-04-10,Gaseosa,Gaseosa Personal,9,31500.0
+2026-04-11,Acompañante,Huevo Adicional,1,2000.0
+2026-04-11,Acompañante,Patacones,5,25000.0
+2026-04-11,Acompañante,Porción de Arroz,4,12000.0
+2026-04-11,Almuerzo,Almuerzo Corriente,24,144000.0
+2026-04-11,Almuerzo,Almuerzo Ejecutivo,29,377000.0
+2026-04-11,Almuerzo,Almuerzo Tradicional,27,297000.0
+2026-04-11,Cerveza,Cerveza Poker,1,4000.0
+2026-04-11,Desayuno,Desayuno Especial,4,56000.0
+2026-04-11,Desayuno,Desayuno Sencillo,6,36000.0
+2026-04-11,Desayuno,Desayuno Tradicional,6,72000.0
+2026-04-11,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-04-11,Gaseosa,Gaseosa Personal,15,52500.0
+2026-04-12,Acompañante,Papas Fritas,5,25000.0
+2026-04-12,Acompañante,Patacones,5,25000.0
+2026-04-12,Acompañante,Porción de Arroz,6,18000.0
+2026-04-12,Almuerzo,Almuerzo Corriente,34,204000.0
+2026-04-12,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-04-12,Almuerzo,Almuerzo Tradicional,28,308000.0
+2026-04-12,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-04-12,Desayuno,Desayuno Especial,5,70000.0
+2026-04-12,Desayuno,Desayuno Sencillo,2,12000.0
+2026-04-12,Desayuno,Desayuno Tradicional,8,96000.0
+2026-04-12,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-04-12,Gaseosa,Gaseosa Personal,16,56000.0
+2026-04-13,Acompañante,Huevo Adicional,2,4000.0
+2026-04-13,Acompañante,Patacones,5,25000.0
+2026-04-13,Acompañante,Porción de Arroz,3,9000.0
+2026-04-13,Almuerzo,Almuerzo Corriente,24,144000.0
+2026-04-13,Almuerzo,Almuerzo Ejecutivo,30,390000.0
+2026-04-13,Almuerzo,Almuerzo Tradicional,22,242000.0
+2026-04-13,Desayuno,Desayuno Especial,4,56000.0
+2026-04-13,Desayuno,Desayuno Sencillo,5,30000.0
+2026-04-13,Desayuno,Desayuno Tradicional,8,96000.0
+2026-04-13,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-04-13,Gaseosa,Gaseosa Personal,20,70000.0
+2026-04-14,Acompañante,Ensalada de la Casa,1,4000.0
+2026-04-14,Acompañante,Papas Fritas,2,10000.0
+2026-04-14,Acompañante,Patacones,2,10000.0
+2026-04-14,Acompañante,Porción de Arroz,1,3000.0
+2026-04-14,Almuerzo,Almuerzo Corriente,24,144000.0
+2026-04-14,Almuerzo,Almuerzo Ejecutivo,35,455000.0
+2026-04-14,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-04-14,Cerveza,Cerveza Águila,2,9000.0
+2026-04-14,Desayuno,Desayuno Especial,6,84000.0
+2026-04-14,Desayuno,Desayuno Sencillo,3,18000.0
+2026-04-14,Desayuno,Desayuno Tradicional,2,24000.0
+2026-04-14,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-04-14,Gaseosa,Gaseosa Personal,13,45500.0
+2026-04-15,Acompañante,Ensalada de la Casa,3,12000.0
+2026-04-15,Acompañante,Huevo Adicional,1,2000.0
+2026-04-15,Acompañante,Papas Fritas,7,35000.0
+2026-04-15,Acompañante,Patacones,5,25000.0
+2026-04-15,Acompañante,Porción de Arroz,3,9000.0
+2026-04-15,Almuerzo,Almuerzo Corriente,25,150000.0
+2026-04-15,Almuerzo,Almuerzo Ejecutivo,31,403000.0
+2026-04-15,Almuerzo,Almuerzo Tradicional,26,286000.0
+2026-04-15,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-04-15,Cerveza,Cerveza Águila,1,4500.0
+2026-04-15,Desayuno,Desayuno Especial,2,28000.0
+2026-04-15,Desayuno,Desayuno Sencillo,5,30000.0
+2026-04-15,Desayuno,Desayuno Tradicional,7,84000.0
+2026-04-15,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-04-15,Gaseosa,Gaseosa Personal,16,56000.0
+2026-04-16,Acompañante,Huevo Adicional,2,4000.0
+2026-04-16,Acompañante,Papas Fritas,10,50000.0
+2026-04-16,Acompañante,Patacones,2,10000.0
+2026-04-16,Acompañante,Porción de Arroz,1,3000.0
+2026-04-16,Almuerzo,Almuerzo Corriente,22,132000.0
+2026-04-16,Almuerzo,Almuerzo Ejecutivo,31,403000.0
+2026-04-16,Almuerzo,Almuerzo Tradicional,31,341000.0
+2026-04-16,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-04-16,Cerveza,Cerveza Poker,1,4000.0
+2026-04-16,Desayuno,Desayuno Especial,5,70000.0
+2026-04-16,Desayuno,Desayuno Sencillo,4,24000.0
+2026-04-16,Desayuno,Desayuno Tradicional,4,48000.0
+2026-04-16,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-04-16,Gaseosa,Gaseosa Personal,13,45500.0
+2026-04-17,Acompañante,Ensalada de la Casa,2,8000.0
+2026-04-17,Acompañante,Huevo Adicional,1,2000.0
+2026-04-17,Acompañante,Papas Fritas,4,20000.0
+2026-04-17,Acompañante,Porción de Arroz,3,9000.0
+2026-04-17,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-04-17,Almuerzo,Almuerzo Ejecutivo,34,442000.0
+2026-04-17,Almuerzo,Almuerzo Tradicional,25,275000.0
+2026-04-17,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-04-17,Cerveza,Cerveza Poker,1,4000.0
+2026-04-17,Cerveza,Cerveza Águila,1,4500.0
+2026-04-17,Desayuno,Desayuno Especial,5,70000.0
+2026-04-17,Desayuno,Desayuno Sencillo,4,24000.0
+2026-04-17,Desayuno,Desayuno Tradicional,3,36000.0
+2026-04-17,Gaseosa,Gaseosa 1.5 L,1,7000.0
+2026-04-17,Gaseosa,Gaseosa Personal,16,56000.0
+2026-04-18,Acompañante,Ensalada de la Casa,1,4000.0
+2026-04-18,Acompañante,Papas Fritas,3,15000.0
+2026-04-18,Acompañante,Patacones,6,30000.0
+2026-04-18,Acompañante,Porción de Arroz,1,3000.0
+2026-04-18,Almuerzo,Almuerzo Corriente,28,168000.0
+2026-04-18,Almuerzo,Almuerzo Ejecutivo,33,429000.0
+2026-04-18,Almuerzo,Almuerzo Tradicional,26,286000.0
+2026-04-18,Cerveza,Cerveza Águila,2,9000.0
+2026-04-18,Desayuno,Desayuno Especial,6,84000.0
+2026-04-18,Desayuno,Desayuno Sencillo,4,24000.0
+2026-04-18,Desayuno,Desayuno Tradicional,4,48000.0
+2026-04-18,Gaseosa,Gaseosa 1.5 L,6,42000.0
+2026-04-18,Gaseosa,Gaseosa Personal,19,66500.0
+2026-04-19,Acompañante,Ensalada de la Casa,3,12000.0
+2026-04-19,Acompañante,Huevo Adicional,2,4000.0
+2026-04-19,Acompañante,Papas Fritas,1,5000.0
+2026-04-19,Acompañante,Patacones,2,10000.0
+2026-04-19,Acompañante,Porción de Arroz,6,18000.0
+2026-04-19,Almuerzo,Almuerzo Corriente,23,138000.0
+2026-04-19,Almuerzo,Almuerzo Ejecutivo,27,351000.0
+2026-04-19,Almuerzo,Almuerzo Tradicional,35,385000.0
+2026-04-19,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-04-19,Cerveza,Cerveza Águila,2,9000.0
+2026-04-19,Desayuno,Desayuno Especial,4,56000.0
+2026-04-19,Desayuno,Desayuno Sencillo,4,24000.0
+2026-04-19,Desayuno,Desayuno Tradicional,6,72000.0
+2026-04-19,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-04-19,Gaseosa,Gaseosa Personal,12,42000.0
+2026-04-20,Acompañante,Ensalada de la Casa,1,4000.0
+2026-04-20,Acompañante,Huevo Adicional,1,2000.0
+2026-04-20,Acompañante,Patacones,1,5000.0
+2026-04-20,Acompañante,Porción de Arroz,4,12000.0
+2026-04-20,Almuerzo,Almuerzo Corriente,22,132000.0
+2026-04-20,Almuerzo,Almuerzo Ejecutivo,30,390000.0
+2026-04-20,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-04-20,Cerveza,Cerveza Poker,2,8000.0
+2026-04-20,Cerveza,Cerveza Águila,2,9000.0
+2026-04-20,Desayuno,Desayuno Especial,3,42000.0
+2026-04-20,Desayuno,Desayuno Sencillo,2,12000.0
+2026-04-20,Desayuno,Desayuno Tradicional,6,72000.0
+2026-04-20,Gaseosa,Gaseosa 1.5 L,7,49000.0
+2026-04-20,Gaseosa,Gaseosa Personal,15,52500.0
+2026-04-21,Acompañante,Ensalada de la Casa,2,8000.0
+2026-04-21,Acompañante,Huevo Adicional,1,2000.0
+2026-04-21,Acompañante,Patacones,2,10000.0
+2026-04-21,Acompañante,Porción de Arroz,4,12000.0
+2026-04-21,Almuerzo,Almuerzo Corriente,27,162000.0
+2026-04-21,Almuerzo,Almuerzo Ejecutivo,16,208000.0
+2026-04-21,Almuerzo,Almuerzo Tradicional,38,418000.0
+2026-04-21,Cerveza,Cerveza Club Colombia,3,16500.0
+2026-04-21,Cerveza,Cerveza Águila,2,9000.0
+2026-04-21,Desayuno,Desayuno Especial,8,112000.0
+2026-04-21,Desayuno,Desayuno Sencillo,6,36000.0
+2026-04-21,Desayuno,Desayuno Tradicional,1,12000.0
+2026-04-21,Gaseosa,Gaseosa 1.5 L,9,63000.0
+2026-04-21,Gaseosa,Gaseosa Personal,9,31500.0
+2026-04-22,Acompañante,Ensalada de la Casa,1,4000.0
+2026-04-22,Acompañante,Huevo Adicional,2,4000.0
+2026-04-22,Acompañante,Papas Fritas,3,15000.0
+2026-04-22,Acompañante,Patacones,2,10000.0
+2026-04-22,Acompañante,Porción de Arroz,2,6000.0
+2026-04-22,Almuerzo,Almuerzo Corriente,34,204000.0
+2026-04-22,Almuerzo,Almuerzo Ejecutivo,23,299000.0
+2026-04-22,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-04-22,Cerveza,Cerveza Águila,1,4500.0
+2026-04-22,Desayuno,Desayuno Especial,8,112000.0
+2026-04-22,Desayuno,Desayuno Sencillo,4,24000.0
+2026-04-22,Desayuno,Desayuno Tradicional,4,48000.0
+2026-04-22,Gaseosa,Gaseosa 1.5 L,1,7000.0
+2026-04-22,Gaseosa,Gaseosa Personal,13,45500.0
+2026-04-23,Acompañante,Ensalada de la Casa,1,4000.0
+2026-04-23,Acompañante,Huevo Adicional,1,2000.0
+2026-04-23,Acompañante,Papas Fritas,3,15000.0
+2026-04-23,Acompañante,Porción de Arroz,9,27000.0
+2026-04-23,Almuerzo,Almuerzo Corriente,24,144000.0
+2026-04-23,Almuerzo,Almuerzo Ejecutivo,27,351000.0
+2026-04-23,Almuerzo,Almuerzo Tradicional,38,418000.0
+2026-04-23,Cerveza,Cerveza Águila,4,18000.0
+2026-04-23,Desayuno,Desayuno Especial,5,70000.0
+2026-04-23,Desayuno,Desayuno Sencillo,5,30000.0
+2026-04-23,Desayuno,Desayuno Tradicional,3,36000.0
+2026-04-23,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-04-23,Gaseosa,Gaseosa Personal,14,49000.0
+2026-04-24,Acompañante,Huevo Adicional,1,2000.0
+2026-04-24,Acompañante,Papas Fritas,2,10000.0
+2026-04-24,Acompañante,Patacones,3,15000.0
+2026-04-24,Acompañante,Porción de Arroz,3,9000.0
+2026-04-24,Almuerzo,Almuerzo Corriente,27,162000.0
+2026-04-24,Almuerzo,Almuerzo Ejecutivo,25,325000.0
+2026-04-24,Almuerzo,Almuerzo Tradicional,27,297000.0
+2026-04-24,Desayuno,Desayuno Especial,4,56000.0
+2026-04-24,Desayuno,Desayuno Sencillo,3,18000.0
+2026-04-24,Desayuno,Desayuno Tradicional,6,72000.0
+2026-04-24,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-04-24,Gaseosa,Gaseosa Personal,12,42000.0
+2026-04-25,Acompañante,Huevo Adicional,3,6000.0
+2026-04-25,Acompañante,Papas Fritas,2,10000.0
+2026-04-25,Acompañante,Patacones,1,5000.0
+2026-04-25,Almuerzo,Almuerzo Corriente,23,138000.0
+2026-04-25,Almuerzo,Almuerzo Ejecutivo,27,351000.0
+2026-04-25,Almuerzo,Almuerzo Tradicional,23,253000.0
+2026-04-25,Cerveza,Cerveza Águila,1,4500.0
+2026-04-25,Desayuno,Desayuno Especial,11,154000.0
+2026-04-25,Desayuno,Desayuno Sencillo,3,18000.0
+2026-04-25,Desayuno,Desayuno Tradicional,6,72000.0
+2026-04-25,Gaseosa,Gaseosa 1.5 L,8,56000.0
+2026-04-25,Gaseosa,Gaseosa Personal,14,49000.0
+2026-04-26,Acompañante,Ensalada de la Casa,1,4000.0
+2026-04-26,Acompañante,Huevo Adicional,5,10000.0
+2026-04-26,Acompañante,Papas Fritas,2,10000.0
+2026-04-26,Acompañante,Porción de Arroz,4,12000.0
+2026-04-26,Almuerzo,Almuerzo Corriente,27,162000.0
+2026-04-26,Almuerzo,Almuerzo Ejecutivo,28,364000.0
+2026-04-26,Almuerzo,Almuerzo Tradicional,23,253000.0
+2026-04-26,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-04-26,Desayuno,Desayuno Especial,4,56000.0
+2026-04-26,Desayuno,Desayuno Sencillo,8,48000.0
+2026-04-26,Desayuno,Desayuno Tradicional,6,72000.0
+2026-04-26,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-04-26,Gaseosa,Gaseosa Personal,17,59500.0
+2026-04-27,Acompañante,Ensalada de la Casa,1,4000.0
+2026-04-27,Acompañante,Huevo Adicional,1,2000.0
+2026-04-27,Acompañante,Papas Fritas,1,5000.0
+2026-04-27,Acompañante,Porción de Arroz,2,6000.0
+2026-04-27,Almuerzo,Almuerzo Corriente,27,162000.0
+2026-04-27,Almuerzo,Almuerzo Ejecutivo,30,390000.0
+2026-04-27,Almuerzo,Almuerzo Tradicional,23,253000.0
+2026-04-27,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-04-27,Cerveza,Cerveza Poker,2,8000.0
+2026-04-27,Desayuno,Desayuno Especial,4,56000.0
+2026-04-27,Desayuno,Desayuno Sencillo,7,42000.0
+2026-04-27,Desayuno,Desayuno Tradicional,5,60000.0
+2026-04-27,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-04-27,Gaseosa,Gaseosa Personal,18,63000.0
+2026-04-28,Acompañante,Ensalada de la Casa,2,8000.0
+2026-04-28,Acompañante,Huevo Adicional,2,4000.0
+2026-04-28,Acompañante,Papas Fritas,1,5000.0
+2026-04-28,Acompañante,Porción de Arroz,6,18000.0
+2026-04-28,Almuerzo,Almuerzo Corriente,35,210000.0
+2026-04-28,Almuerzo,Almuerzo Ejecutivo,27,351000.0
+2026-04-28,Almuerzo,Almuerzo Tradicional,20,220000.0
+2026-04-28,Cerveza,Cerveza Águila,2,9000.0
+2026-04-28,Desayuno,Desayuno Especial,5,70000.0
+2026-04-28,Desayuno,Desayuno Sencillo,6,36000.0
+2026-04-28,Desayuno,Desayuno Tradicional,7,84000.0
+2026-04-28,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-04-28,Gaseosa,Gaseosa Personal,15,52500.0
+2026-04-29,Acompañante,Ensalada de la Casa,4,16000.0
+2026-04-29,Acompañante,Huevo Adicional,2,4000.0
+2026-04-29,Acompañante,Patacones,2,10000.0
+2026-04-29,Acompañante,Porción de Arroz,4,12000.0
+2026-04-29,Almuerzo,Almuerzo Corriente,18,108000.0
+2026-04-29,Almuerzo,Almuerzo Ejecutivo,35,455000.0
+2026-04-29,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-04-29,Cerveza,Cerveza Águila,2,9000.0
+2026-04-29,Desayuno,Desayuno Especial,3,42000.0
+2026-04-29,Desayuno,Desayuno Sencillo,6,36000.0
+2026-04-29,Desayuno,Desayuno Tradicional,5,60000.0
+2026-04-29,Gaseosa,Gaseosa 1.5 L,6,42000.0
+2026-04-29,Gaseosa,Gaseosa Personal,11,38500.0
+2026-04-30,Acompañante,Ensalada de la Casa,2,8000.0
+2026-04-30,Acompañante,Huevo Adicional,1,2000.0
+2026-04-30,Acompañante,Patacones,2,10000.0
+2026-04-30,Acompañante,Porción de Arroz,1,3000.0
+2026-04-30,Almuerzo,Almuerzo Corriente,26,156000.0
+2026-04-30,Almuerzo,Almuerzo Ejecutivo,24,312000.0
+2026-04-30,Almuerzo,Almuerzo Tradicional,34,374000.0
+2026-04-30,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-04-30,Cerveza,Cerveza Poker,1,4000.0
+2026-04-30,Cerveza,Cerveza Águila,5,22500.0
+2026-04-30,Desayuno,Desayuno Especial,8,112000.0
+2026-04-30,Desayuno,Desayuno Sencillo,7,42000.0
+2026-04-30,Desayuno,Desayuno Tradicional,3,36000.0
+2026-04-30,Gaseosa,Gaseosa 1.5 L,6,42000.0
+2026-04-30,Gaseosa,Gaseosa Personal,8,28000.0
+2026-05-01,Acompañante,Huevo Adicional,1,2000.0
+2026-05-01,Acompañante,Patacones,3,15000.0
+2026-05-01,Acompañante,Porción de Arroz,3,9000.0
+2026-05-01,Almuerzo,Almuerzo Corriente,24,144000.0
+2026-05-01,Almuerzo,Almuerzo Ejecutivo,32,416000.0
+2026-05-01,Almuerzo,Almuerzo Tradicional,25,275000.0
+2026-05-01,Cerveza,Cerveza Poker,1,4000.0
+2026-05-01,Desayuno,Desayuno Especial,2,28000.0
+2026-05-01,Desayuno,Desayuno Sencillo,3,18000.0
+2026-05-01,Desayuno,Desayuno Tradicional,5,60000.0
+2026-05-01,Gaseosa,Gaseosa 1.5 L,6,42000.0
+2026-05-01,Gaseosa,Gaseosa Personal,11,38500.0
+2026-05-02,Acompañante,Ensalada de la Casa,1,4000.0
+2026-05-02,Acompañante,Huevo Adicional,1,2000.0
+2026-05-02,Acompañante,Papas Fritas,4,20000.0
+2026-05-02,Acompañante,Porción de Arroz,4,12000.0
+2026-05-02,Almuerzo,Almuerzo Corriente,28,168000.0
+2026-05-02,Almuerzo,Almuerzo Ejecutivo,29,377000.0
+2026-05-02,Almuerzo,Almuerzo Tradicional,28,308000.0
+2026-05-02,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-05-02,Cerveza,Cerveza Águila,1,4500.0
+2026-05-02,Desayuno,Desayuno Especial,4,56000.0
+2026-05-02,Desayuno,Desayuno Sencillo,8,48000.0
+2026-05-02,Desayuno,Desayuno Tradicional,2,24000.0
+2026-05-02,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-05-02,Gaseosa,Gaseosa Personal,13,45500.0
+2026-05-03,Acompañante,Ensalada de la Casa,3,12000.0
+2026-05-03,Acompañante,Huevo Adicional,2,4000.0
+2026-05-03,Acompañante,Papas Fritas,3,15000.0
+2026-05-03,Acompañante,Patacones,3,15000.0
+2026-05-03,Acompañante,Porción de Arroz,4,12000.0
+2026-05-03,Almuerzo,Almuerzo Corriente,31,186000.0
+2026-05-03,Almuerzo,Almuerzo Ejecutivo,31,403000.0
+2026-05-03,Almuerzo,Almuerzo Tradicional,28,308000.0
+2026-05-03,Cerveza,Cerveza Águila,1,4500.0
+2026-05-03,Desayuno,Desayuno Especial,6,84000.0
+2026-05-03,Desayuno,Desayuno Sencillo,4,24000.0
+2026-05-03,Desayuno,Desayuno Tradicional,3,36000.0
+2026-05-03,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-05-03,Gaseosa,Gaseosa Personal,10,35000.0
+2026-05-04,Acompañante,Ensalada de la Casa,2,8000.0
+2026-05-04,Acompañante,Huevo Adicional,1,2000.0
+2026-05-04,Acompañante,Papas Fritas,2,10000.0
+2026-05-04,Acompañante,Patacones,2,10000.0
+2026-05-04,Acompañante,Porción de Arroz,6,18000.0
+2026-05-04,Almuerzo,Almuerzo Corriente,19,114000.0
+2026-05-04,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-05-04,Almuerzo,Almuerzo Tradicional,35,385000.0
+2026-05-04,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-05-04,Cerveza,Cerveza Águila,1,4500.0
+2026-05-04,Desayuno,Desayuno Especial,5,70000.0
+2026-05-04,Desayuno,Desayuno Sencillo,4,24000.0
+2026-05-04,Desayuno,Desayuno Tradicional,8,96000.0
+2026-05-04,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-05-04,Gaseosa,Gaseosa Personal,10,35000.0
+2026-05-05,Acompañante,Ensalada de la Casa,1,4000.0
+2026-05-05,Acompañante,Huevo Adicional,2,4000.0
+2026-05-05,Acompañante,Papas Fritas,1,5000.0
+2026-05-05,Acompañante,Patacones,3,15000.0
+2026-05-05,Acompañante,Porción de Arroz,2,6000.0
+2026-05-05,Almuerzo,Almuerzo Corriente,31,186000.0
+2026-05-05,Almuerzo,Almuerzo Ejecutivo,35,455000.0
+2026-05-05,Almuerzo,Almuerzo Tradicional,17,187000.0
+2026-05-05,Cerveza,Cerveza Águila,2,9000.0
+2026-05-05,Desayuno,Desayuno Especial,5,70000.0
+2026-05-05,Desayuno,Desayuno Sencillo,4,24000.0
+2026-05-05,Desayuno,Desayuno Tradicional,4,48000.0
+2026-05-05,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-05-05,Gaseosa,Gaseosa Personal,9,31500.0
+2026-05-06,Acompañante,Ensalada de la Casa,2,8000.0
+2026-05-06,Acompañante,Huevo Adicional,2,4000.0
+2026-05-06,Acompañante,Papas Fritas,2,10000.0
+2026-05-06,Acompañante,Patacones,1,5000.0
+2026-05-06,Acompañante,Porción de Arroz,4,12000.0
+2026-05-06,Almuerzo,Almuerzo Corriente,25,150000.0
+2026-05-06,Almuerzo,Almuerzo Ejecutivo,28,364000.0
+2026-05-06,Almuerzo,Almuerzo Tradicional,28,308000.0
+2026-05-06,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-05-06,Cerveza,Cerveza Águila,5,22500.0
+2026-05-06,Desayuno,Desayuno Especial,8,112000.0
+2026-05-06,Desayuno,Desayuno Sencillo,1,6000.0
+2026-05-06,Desayuno,Desayuno Tradicional,8,96000.0
+2026-05-06,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-05-06,Gaseosa,Gaseosa Personal,11,38500.0
+2026-05-07,Acompañante,Huevo Adicional,3,6000.0
+2026-05-07,Acompañante,Papas Fritas,1,5000.0
+2026-05-07,Acompañante,Patacones,3,15000.0
+2026-05-07,Almuerzo,Almuerzo Corriente,32,192000.0
+2026-05-07,Almuerzo,Almuerzo Ejecutivo,24,312000.0
+2026-05-07,Almuerzo,Almuerzo Tradicional,24,264000.0
+2026-05-07,Cerveza,Cerveza Poker,1,4000.0
+2026-05-07,Cerveza,Cerveza Águila,1,4500.0
+2026-05-07,Desayuno,Desayuno Especial,5,70000.0
+2026-05-07,Desayuno,Desayuno Sencillo,3,18000.0
+2026-05-07,Desayuno,Desayuno Tradicional,5,60000.0
+2026-05-07,Gaseosa,Gaseosa 1.5 L,1,7000.0
+2026-05-07,Gaseosa,Gaseosa Personal,13,45500.0
+2026-05-08,Acompañante,Ensalada de la Casa,1,4000.0
+2026-05-08,Acompañante,Huevo Adicional,4,8000.0
+2026-05-08,Acompañante,Papas Fritas,2,10000.0
+2026-05-08,Acompañante,Porción de Arroz,6,18000.0
+2026-05-08,Almuerzo,Almuerzo Corriente,26,156000.0
+2026-05-08,Almuerzo,Almuerzo Ejecutivo,28,364000.0
+2026-05-08,Almuerzo,Almuerzo Tradicional,25,275000.0
+2026-05-08,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-05-08,Cerveza,Cerveza Poker,2,8000.0
+2026-05-08,Desayuno,Desayuno Especial,8,112000.0
+2026-05-08,Desayuno,Desayuno Sencillo,6,36000.0
+2026-05-08,Desayuno,Desayuno Tradicional,6,72000.0
+2026-05-08,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-05-08,Gaseosa,Gaseosa Personal,6,21000.0
+2026-05-09,Acompañante,Ensalada de la Casa,1,4000.0
+2026-05-09,Acompañante,Huevo Adicional,4,8000.0
+2026-05-09,Acompañante,Papas Fritas,6,30000.0
+2026-05-09,Acompañante,Patacones,1,5000.0
+2026-05-09,Acompañante,Porción de Arroz,6,18000.0
+2026-05-09,Almuerzo,Almuerzo Corriente,34,204000.0
+2026-05-09,Almuerzo,Almuerzo Ejecutivo,22,286000.0
+2026-05-09,Almuerzo,Almuerzo Tradicional,22,242000.0
+2026-05-09,Desayuno,Desayuno Especial,3,42000.0
+2026-05-09,Desayuno,Desayuno Sencillo,5,30000.0
+2026-05-09,Desayuno,Desayuno Tradicional,9,108000.0
+2026-05-09,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-05-09,Gaseosa,Gaseosa Personal,13,45500.0
+2026-05-10,Acompañante,Ensalada de la Casa,2,8000.0
+2026-05-10,Acompañante,Huevo Adicional,1,2000.0
+2026-05-10,Acompañante,Papas Fritas,2,10000.0
+2026-05-10,Acompañante,Patacones,3,15000.0
+2026-05-10,Acompañante,Porción de Arroz,3,9000.0
+2026-05-10,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-05-10,Almuerzo,Almuerzo Ejecutivo,27,351000.0
+2026-05-10,Almuerzo,Almuerzo Tradicional,35,385000.0
+2026-05-10,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-05-10,Cerveza,Cerveza Poker,2,8000.0
+2026-05-10,Desayuno,Desayuno Especial,7,98000.0
+2026-05-10,Desayuno,Desayuno Sencillo,4,24000.0
+2026-05-10,Desayuno,Desayuno Tradicional,1,12000.0
+2026-05-10,Gaseosa,Gaseosa 1.5 L,9,63000.0
+2026-05-10,Gaseosa,Gaseosa Personal,8,28000.0
+2026-05-11,Acompañante,Ensalada de la Casa,1,4000.0
+2026-05-11,Acompañante,Huevo Adicional,2,4000.0
+2026-05-11,Acompañante,Patacones,3,15000.0
+2026-05-11,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-05-11,Almuerzo,Almuerzo Ejecutivo,30,390000.0
+2026-05-11,Almuerzo,Almuerzo Tradicional,25,275000.0
+2026-05-11,Cerveza,Cerveza Poker,1,4000.0
+2026-05-11,Desayuno,Desayuno Especial,4,56000.0
+2026-05-11,Desayuno,Desayuno Sencillo,5,30000.0
+2026-05-11,Desayuno,Desayuno Tradicional,5,60000.0
+2026-05-11,Gaseosa,Gaseosa 1.5 L,7,49000.0
+2026-05-11,Gaseosa,Gaseosa Personal,14,49000.0
+2026-05-12,Acompañante,Ensalada de la Casa,1,4000.0
+2026-05-12,Acompañante,Huevo Adicional,1,2000.0
+2026-05-12,Acompañante,Papas Fritas,1,5000.0
+2026-05-12,Acompañante,Patacones,3,15000.0
+2026-05-12,Acompañante,Porción de Arroz,1,3000.0
+2026-05-12,Almuerzo,Almuerzo Corriente,24,144000.0
+2026-05-12,Almuerzo,Almuerzo Ejecutivo,36,468000.0
+2026-05-12,Almuerzo,Almuerzo Tradicional,22,242000.0
+2026-05-12,Desayuno,Desayuno Especial,8,112000.0
+2026-05-12,Desayuno,Desayuno Sencillo,5,30000.0
+2026-05-12,Desayuno,Desayuno Tradicional,5,60000.0
+2026-05-12,Gaseosa,Gaseosa 1.5 L,6,42000.0
+2026-05-12,Gaseosa,Gaseosa Personal,13,45500.0
+2026-05-13,Acompañante,Papas Fritas,2,10000.0
+2026-05-13,Acompañante,Patacones,2,10000.0
+2026-05-13,Acompañante,Porción de Arroz,2,6000.0
+2026-05-13,Almuerzo,Almuerzo Corriente,30,180000.0
+2026-05-13,Almuerzo,Almuerzo Ejecutivo,28,364000.0
+2026-05-13,Almuerzo,Almuerzo Tradicional,22,242000.0
+2026-05-13,Desayuno,Desayuno Especial,2,28000.0
+2026-05-13,Desayuno,Desayuno Sencillo,5,30000.0
+2026-05-13,Desayuno,Desayuno Tradicional,6,72000.0
+2026-05-13,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-05-13,Gaseosa,Gaseosa Personal,16,56000.0
+2026-05-14,Acompañante,Ensalada de la Casa,2,8000.0
+2026-05-14,Acompañante,Huevo Adicional,3,6000.0
+2026-05-14,Acompañante,Porción de Arroz,2,6000.0
+2026-05-14,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-05-14,Almuerzo,Almuerzo Ejecutivo,23,299000.0
+2026-05-14,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-05-14,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-05-14,Cerveza,Cerveza Águila,4,18000.0
+2026-05-14,Desayuno,Desayuno Especial,5,70000.0
+2026-05-14,Desayuno,Desayuno Sencillo,6,36000.0
+2026-05-14,Desayuno,Desayuno Tradicional,5,60000.0
+2026-05-14,Gaseosa,Gaseosa 1.5 L,1,7000.0
+2026-05-14,Gaseosa,Gaseosa Personal,17,59500.0
+2026-05-15,Acompañante,Huevo Adicional,1,2000.0
+2026-05-15,Acompañante,Papas Fritas,2,10000.0
+2026-05-15,Acompañante,Patacones,4,20000.0
+2026-05-15,Acompañante,Porción de Arroz,6,18000.0
+2026-05-15,Almuerzo,Almuerzo Corriente,28,168000.0
+2026-05-15,Almuerzo,Almuerzo Ejecutivo,23,299000.0
+2026-05-15,Almuerzo,Almuerzo Tradicional,24,264000.0
+2026-05-15,Cerveza,Cerveza Poker,1,4000.0
+2026-05-15,Cerveza,Cerveza Águila,1,4500.0
+2026-05-15,Desayuno,Desayuno Especial,6,84000.0
+2026-05-15,Desayuno,Desayuno Sencillo,6,36000.0
+2026-05-15,Desayuno,Desayuno Tradicional,7,84000.0
+2026-05-15,Gaseosa,Gaseosa 1.5 L,6,42000.0
+2026-05-15,Gaseosa,Gaseosa Personal,12,42000.0
+2026-05-16,Acompañante,Ensalada de la Casa,2,8000.0
+2026-05-16,Acompañante,Papas Fritas,3,15000.0
+2026-05-16,Acompañante,Porción de Arroz,4,12000.0
+2026-05-16,Almuerzo,Almuerzo Corriente,26,156000.0
+2026-05-16,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-05-16,Almuerzo,Almuerzo Tradicional,30,330000.0
+2026-05-16,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-05-16,Cerveza,Cerveza Poker,1,4000.0
+2026-05-16,Cerveza,Cerveza Águila,2,9000.0
+2026-05-16,Desayuno,Desayuno Especial,5,70000.0
+2026-05-16,Desayuno,Desayuno Sencillo,3,18000.0
+2026-05-16,Desayuno,Desayuno Tradicional,2,24000.0
+2026-05-16,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-05-16,Gaseosa,Gaseosa Personal,10,35000.0
+2026-05-17,Acompañante,Huevo Adicional,2,4000.0
+2026-05-17,Acompañante,Patacones,4,20000.0
+2026-05-17,Acompañante,Porción de Arroz,1,3000.0
+2026-05-17,Almuerzo,Almuerzo Corriente,31,186000.0
+2026-05-17,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-05-17,Almuerzo,Almuerzo Tradicional,25,275000.0
+2026-05-17,Cerveza,Cerveza Águila,4,18000.0
+2026-05-17,Desayuno,Desayuno Especial,11,154000.0
+2026-05-17,Desayuno,Desayuno Sencillo,4,24000.0
+2026-05-17,Desayuno,Desayuno Tradicional,3,36000.0
+2026-05-17,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-05-17,Gaseosa,Gaseosa Personal,9,31500.0
+2026-05-18,Acompañante,Papas Fritas,4,20000.0
+2026-05-18,Acompañante,Patacones,1,5000.0
+2026-05-18,Acompañante,Porción de Arroz,3,9000.0
+2026-05-18,Almuerzo,Almuerzo Corriente,40,240000.0
+2026-05-18,Almuerzo,Almuerzo Ejecutivo,22,286000.0
+2026-05-18,Almuerzo,Almuerzo Tradicional,27,297000.0
+2026-05-18,Cerveza,Cerveza Poker,1,4000.0
+2026-05-18,Cerveza,Cerveza Águila,3,13500.0
+2026-05-18,Desayuno,Desayuno Especial,3,42000.0
+2026-05-18,Desayuno,Desayuno Sencillo,2,12000.0
+2026-05-18,Desayuno,Desayuno Tradicional,8,96000.0
+2026-05-18,Gaseosa,Gaseosa 1.5 L,6,42000.0
+2026-05-18,Gaseosa,Gaseosa Personal,13,45500.0
+2026-05-19,Acompañante,Huevo Adicional,4,8000.0
+2026-05-19,Acompañante,Papas Fritas,3,15000.0
+2026-05-19,Acompañante,Porción de Arroz,7,21000.0
+2026-05-19,Almuerzo,Almuerzo Corriente,27,162000.0
+2026-05-19,Almuerzo,Almuerzo Ejecutivo,24,312000.0
+2026-05-19,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-05-19,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-05-19,Desayuno,Desayuno Especial,7,98000.0
+2026-05-19,Desayuno,Desayuno Sencillo,7,42000.0
+2026-05-19,Desayuno,Desayuno Tradicional,9,108000.0
+2026-05-19,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-05-19,Gaseosa,Gaseosa Personal,14,49000.0
+2026-05-20,Acompañante,Ensalada de la Casa,1,4000.0
+2026-05-20,Acompañante,Huevo Adicional,1,2000.0
+2026-05-20,Acompañante,Papas Fritas,1,5000.0
+2026-05-20,Acompañante,Patacones,1,5000.0
+2026-05-20,Acompañante,Porción de Arroz,2,6000.0
+2026-05-20,Almuerzo,Almuerzo Corriente,25,150000.0
+2026-05-20,Almuerzo,Almuerzo Ejecutivo,33,429000.0
+2026-05-20,Almuerzo,Almuerzo Tradicional,23,253000.0
+2026-05-20,Cerveza,Cerveza Águila,1,4500.0
+2026-05-20,Desayuno,Desayuno Especial,7,98000.0
+2026-05-20,Desayuno,Desayuno Sencillo,7,42000.0
+2026-05-20,Desayuno,Desayuno Tradicional,3,36000.0
+2026-05-20,Gaseosa,Gaseosa 1.5 L,1,7000.0
+2026-05-20,Gaseosa,Gaseosa Personal,13,45500.0
+2026-05-21,Acompañante,Ensalada de la Casa,1,4000.0
+2026-05-21,Acompañante,Huevo Adicional,2,4000.0
+2026-05-21,Acompañante,Papas Fritas,1,5000.0
+2026-05-21,Acompañante,Patacones,1,5000.0
+2026-05-21,Acompañante,Porción de Arroz,7,21000.0
+2026-05-21,Almuerzo,Almuerzo Corriente,28,168000.0
+2026-05-21,Almuerzo,Almuerzo Ejecutivo,32,416000.0
+2026-05-21,Almuerzo,Almuerzo Tradicional,25,275000.0
+2026-05-21,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-05-21,Cerveza,Cerveza Poker,1,4000.0
+2026-05-21,Cerveza,Cerveza Águila,1,4500.0
+2026-05-21,Desayuno,Desayuno Especial,7,98000.0
+2026-05-21,Desayuno,Desayuno Sencillo,3,18000.0
+2026-05-21,Desayuno,Desayuno Tradicional,3,36000.0
+2026-05-21,Gaseosa,Gaseosa 1.5 L,1,7000.0
+2026-05-21,Gaseosa,Gaseosa Personal,16,56000.0
+2026-05-22,Acompañante,Ensalada de la Casa,2,8000.0
+2026-05-22,Acompañante,Huevo Adicional,1,2000.0
+2026-05-22,Acompañante,Papas Fritas,6,30000.0
+2026-05-22,Acompañante,Patacones,3,15000.0
+2026-05-22,Acompañante,Porción de Arroz,1,3000.0
+2026-05-22,Almuerzo,Almuerzo Corriente,22,132000.0
+2026-05-22,Almuerzo,Almuerzo Ejecutivo,25,325000.0
+2026-05-22,Almuerzo,Almuerzo Tradicional,32,352000.0
+2026-05-22,Cerveza,Cerveza Águila,2,9000.0
+2026-05-22,Desayuno,Desayuno Especial,8,112000.0
+2026-05-22,Desayuno,Desayuno Sencillo,7,42000.0
+2026-05-22,Desayuno,Desayuno Tradicional,8,96000.0
+2026-05-22,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-05-22,Gaseosa,Gaseosa Personal,12,42000.0
+2026-05-23,Acompañante,Ensalada de la Casa,5,20000.0
+2026-05-23,Acompañante,Huevo Adicional,2,4000.0
+2026-05-23,Acompañante,Papas Fritas,2,10000.0
+2026-05-23,Acompañante,Patacones,1,5000.0
+2026-05-23,Acompañante,Porción de Arroz,2,6000.0
+2026-05-23,Almuerzo,Almuerzo Corriente,24,144000.0
+2026-05-23,Almuerzo,Almuerzo Ejecutivo,23,299000.0
+2026-05-23,Almuerzo,Almuerzo Tradicional,33,363000.0
+2026-05-23,Cerveza,Cerveza Águila,1,4500.0
+2026-05-23,Desayuno,Desayuno Especial,4,56000.0
+2026-05-23,Desayuno,Desayuno Sencillo,6,36000.0
+2026-05-23,Desayuno,Desayuno Tradicional,5,60000.0
+2026-05-23,Gaseosa,Gaseosa 1.5 L,7,49000.0
+2026-05-23,Gaseosa,Gaseosa Personal,14,49000.0
+2026-05-24,Acompañante,Ensalada de la Casa,2,8000.0
+2026-05-24,Acompañante,Huevo Adicional,2,4000.0
+2026-05-24,Acompañante,Papas Fritas,3,15000.0
+2026-05-24,Acompañante,Patacones,1,5000.0
+2026-05-24,Acompañante,Porción de Arroz,1,3000.0
+2026-05-24,Almuerzo,Almuerzo Corriente,23,138000.0
+2026-05-24,Almuerzo,Almuerzo Ejecutivo,25,325000.0
+2026-05-24,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-05-24,Desayuno,Desayuno Especial,4,56000.0
+2026-05-24,Desayuno,Desayuno Sencillo,4,24000.0
+2026-05-24,Desayuno,Desayuno Tradicional,10,120000.0
+2026-05-24,Gaseosa,Gaseosa 1.5 L,7,49000.0
+2026-05-24,Gaseosa,Gaseosa Personal,19,66500.0
+2026-05-25,Acompañante,Ensalada de la Casa,1,4000.0
+2026-05-25,Acompañante,Huevo Adicional,7,14000.0
+2026-05-25,Acompañante,Papas Fritas,1,5000.0
+2026-05-25,Acompañante,Patacones,1,5000.0
+2026-05-25,Acompañante,Porción de Arroz,2,6000.0
+2026-05-25,Almuerzo,Almuerzo Corriente,40,240000.0
+2026-05-25,Almuerzo,Almuerzo Ejecutivo,28,364000.0
+2026-05-25,Almuerzo,Almuerzo Tradicional,21,231000.0
+2026-05-25,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-05-25,Cerveza,Cerveza Águila,1,4500.0
+2026-05-25,Desayuno,Desayuno Especial,4,56000.0
+2026-05-25,Desayuno,Desayuno Sencillo,1,6000.0
+2026-05-25,Desayuno,Desayuno Tradicional,5,60000.0
+2026-05-25,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-05-25,Gaseosa,Gaseosa Personal,17,59500.0
+2026-05-26,Acompañante,Ensalada de la Casa,1,4000.0
+2026-05-26,Acompañante,Huevo Adicional,4,8000.0
+2026-05-26,Acompañante,Papas Fritas,1,5000.0
+2026-05-26,Acompañante,Patacones,2,10000.0
+2026-05-26,Acompañante,Porción de Arroz,1,3000.0
+2026-05-26,Almuerzo,Almuerzo Corriente,35,210000.0
+2026-05-26,Almuerzo,Almuerzo Ejecutivo,23,299000.0
+2026-05-26,Almuerzo,Almuerzo Tradicional,26,286000.0
+2026-05-26,Cerveza,Cerveza Poker,1,4000.0
+2026-05-26,Cerveza,Cerveza Águila,1,4500.0
+2026-05-26,Desayuno,Desayuno Especial,6,84000.0
+2026-05-26,Desayuno,Desayuno Sencillo,6,36000.0
+2026-05-26,Desayuno,Desayuno Tradicional,7,84000.0
+2026-05-26,Gaseosa,Gaseosa 1.5 L,7,49000.0
+2026-05-26,Gaseosa,Gaseosa Personal,15,52500.0
+2026-05-27,Acompañante,Ensalada de la Casa,2,8000.0
+2026-05-27,Acompañante,Huevo Adicional,5,10000.0
+2026-05-27,Acompañante,Papas Fritas,4,20000.0
+2026-05-27,Acompañante,Patacones,1,5000.0
+2026-05-27,Acompañante,Porción de Arroz,2,6000.0
+2026-05-27,Almuerzo,Almuerzo Corriente,27,162000.0
+2026-05-27,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-05-27,Almuerzo,Almuerzo Tradicional,35,385000.0
+2026-05-27,Cerveza,Cerveza Poker,3,12000.0
+2026-05-27,Cerveza,Cerveza Águila,3,13500.0
+2026-05-27,Desayuno,Desayuno Especial,7,98000.0
+2026-05-27,Desayuno,Desayuno Sencillo,3,18000.0
+2026-05-27,Desayuno,Desayuno Tradicional,5,60000.0
+2026-05-27,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-05-27,Gaseosa,Gaseosa Personal,11,38500.0
+2026-05-28,Acompañante,Ensalada de la Casa,1,4000.0
+2026-05-28,Acompañante,Huevo Adicional,1,2000.0
+2026-05-28,Acompañante,Papas Fritas,2,10000.0
+2026-05-28,Acompañante,Patacones,4,20000.0
+2026-05-28,Almuerzo,Almuerzo Corriente,32,192000.0
+2026-05-28,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-05-28,Almuerzo,Almuerzo Tradicional,26,286000.0
+2026-05-28,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-05-28,Cerveza,Cerveza Poker,1,4000.0
+2026-05-28,Desayuno,Desayuno Especial,5,70000.0
+2026-05-28,Desayuno,Desayuno Sencillo,3,18000.0
+2026-05-28,Desayuno,Desayuno Tradicional,5,60000.0
+2026-05-28,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-05-28,Gaseosa,Gaseosa Personal,15,52500.0
+2026-05-29,Acompañante,Papas Fritas,4,20000.0
+2026-05-29,Acompañante,Patacones,3,15000.0
+2026-05-29,Acompañante,Porción de Arroz,4,12000.0
+2026-05-29,Almuerzo,Almuerzo Corriente,24,144000.0
+2026-05-29,Almuerzo,Almuerzo Ejecutivo,21,273000.0
+2026-05-29,Almuerzo,Almuerzo Tradicional,32,352000.0
+2026-05-29,Cerveza,Cerveza Águila,2,9000.0
+2026-05-29,Desayuno,Desayuno Especial,4,56000.0
+2026-05-29,Desayuno,Desayuno Sencillo,5,30000.0
+2026-05-29,Desayuno,Desayuno Tradicional,8,96000.0
+2026-05-29,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-05-29,Gaseosa,Gaseosa Personal,13,45500.0
+2026-05-30,Acompañante,Ensalada de la Casa,5,20000.0
+2026-05-30,Acompañante,Huevo Adicional,2,4000.0
+2026-05-30,Acompañante,Papas Fritas,4,20000.0
+2026-05-30,Acompañante,Porción de Arroz,7,21000.0
+2026-05-30,Almuerzo,Almuerzo Corriente,31,186000.0
+2026-05-30,Almuerzo,Almuerzo Ejecutivo,22,286000.0
+2026-05-30,Almuerzo,Almuerzo Tradicional,30,330000.0
+2026-05-30,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-05-30,Cerveza,Cerveza Águila,3,13500.0
+2026-05-30,Desayuno,Desayuno Especial,8,112000.0
+2026-05-30,Desayuno,Desayuno Sencillo,4,24000.0
+2026-05-30,Desayuno,Desayuno Tradicional,7,84000.0
+2026-05-30,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-05-30,Gaseosa,Gaseosa Personal,14,49000.0
+2026-05-31,Acompañante,Ensalada de la Casa,1,4000.0
+2026-05-31,Acompañante,Huevo Adicional,1,2000.0
+2026-05-31,Acompañante,Papas Fritas,2,10000.0
+2026-05-31,Acompañante,Patacones,2,10000.0
+2026-05-31,Acompañante,Porción de Arroz,4,12000.0
+2026-05-31,Almuerzo,Almuerzo Corriente,32,192000.0
+2026-05-31,Almuerzo,Almuerzo Ejecutivo,19,247000.0
+2026-05-31,Almuerzo,Almuerzo Tradicional,36,396000.0
+2026-05-31,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-05-31,Cerveza,Cerveza Águila,4,18000.0
+2026-05-31,Desayuno,Desayuno Especial,2,28000.0
+2026-05-31,Desayuno,Desayuno Sencillo,5,30000.0
+2026-05-31,Desayuno,Desayuno Tradicional,6,72000.0
+2026-05-31,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-05-31,Gaseosa,Gaseosa Personal,12,42000.0
+2026-06-01,Acompañante,Ensalada de la Casa,2,8000.0
+2026-06-01,Acompañante,Papas Fritas,2,10000.0
+2026-06-01,Acompañante,Patacones,1,5000.0
+2026-06-01,Acompañante,Porción de Arroz,8,24000.0
+2026-06-01,Almuerzo,Almuerzo Corriente,27,162000.0
+2026-06-01,Almuerzo,Almuerzo Ejecutivo,25,325000.0
+2026-06-01,Almuerzo,Almuerzo Tradicional,34,374000.0
+2026-06-01,Cerveza,Cerveza Club Colombia,3,16500.0
+2026-06-01,Cerveza,Cerveza Poker,1,4000.0
+2026-06-01,Desayuno,Desayuno Especial,6,84000.0
+2026-06-01,Desayuno,Desayuno Sencillo,11,66000.0
+2026-06-01,Desayuno,Desayuno Tradicional,4,48000.0
+2026-06-01,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-06-01,Gaseosa,Gaseosa Personal,14,49000.0
+2026-06-02,Acompañante,Huevo Adicional,2,4000.0
+2026-06-02,Acompañante,Papas Fritas,3,15000.0
+2026-06-02,Acompañante,Patacones,3,15000.0
+2026-06-02,Acompañante,Porción de Arroz,4,12000.0
+2026-06-02,Almuerzo,Almuerzo Corriente,34,204000.0
+2026-06-02,Almuerzo,Almuerzo Ejecutivo,27,351000.0
+2026-06-02,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-06-02,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-06-02,Cerveza,Cerveza Águila,1,4500.0
+2026-06-02,Desayuno,Desayuno Especial,4,56000.0
+2026-06-02,Desayuno,Desayuno Sencillo,3,18000.0
+2026-06-02,Desayuno,Desayuno Tradicional,7,84000.0
+2026-06-02,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-06-02,Gaseosa,Gaseosa Personal,19,66500.0
+2026-06-03,Acompañante,Huevo Adicional,2,4000.0
+2026-06-03,Acompañante,Patacones,1,5000.0
+2026-06-03,Acompañante,Porción de Arroz,2,6000.0
+2026-06-03,Almuerzo,Almuerzo Corriente,32,192000.0
+2026-06-03,Almuerzo,Almuerzo Ejecutivo,17,221000.0
+2026-06-03,Almuerzo,Almuerzo Tradicional,26,286000.0
+2026-06-03,Cerveza,Cerveza Águila,1,4500.0
+2026-06-03,Desayuno,Desayuno Especial,5,70000.0
+2026-06-03,Desayuno,Desayuno Sencillo,7,42000.0
+2026-06-03,Desayuno,Desayuno Tradicional,6,72000.0
+2026-06-03,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-06-03,Gaseosa,Gaseosa Personal,7,24500.0
+2026-06-04,Acompañante,Ensalada de la Casa,2,8000.0
+2026-06-04,Acompañante,Huevo Adicional,2,4000.0
+2026-06-04,Acompañante,Papas Fritas,2,10000.0
+2026-06-04,Acompañante,Patacones,7,35000.0
+2026-06-04,Acompañante,Porción de Arroz,2,6000.0
+2026-06-04,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-06-04,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-06-04,Almuerzo,Almuerzo Tradicional,33,363000.0
+2026-06-04,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-06-04,Cerveza,Cerveza Poker,1,4000.0
+2026-06-04,Cerveza,Cerveza Águila,1,4500.0
+2026-06-04,Desayuno,Desayuno Especial,2,28000.0
+2026-06-04,Desayuno,Desayuno Sencillo,6,36000.0
+2026-06-04,Desayuno,Desayuno Tradicional,5,60000.0
+2026-06-04,Gaseosa,Gaseosa 1.5 L,1,7000.0
+2026-06-04,Gaseosa,Gaseosa Personal,11,38500.0
+2026-06-05,Acompañante,Ensalada de la Casa,2,8000.0
+2026-06-05,Acompañante,Huevo Adicional,1,2000.0
+2026-06-05,Acompañante,Papas Fritas,3,15000.0
+2026-06-05,Acompañante,Patacones,7,35000.0
+2026-06-05,Acompañante,Porción de Arroz,2,6000.0
+2026-06-05,Almuerzo,Almuerzo Corriente,17,102000.0
+2026-06-05,Almuerzo,Almuerzo Ejecutivo,38,494000.0
+2026-06-05,Almuerzo,Almuerzo Tradicional,23,253000.0
+2026-06-05,Cerveza,Cerveza Águila,2,9000.0
+2026-06-05,Desayuno,Desayuno Especial,6,84000.0
+2026-06-05,Desayuno,Desayuno Sencillo,10,60000.0
+2026-06-05,Desayuno,Desayuno Tradicional,5,60000.0
+2026-06-05,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-06-05,Gaseosa,Gaseosa Personal,14,49000.0
+2026-06-06,Acompañante,Ensalada de la Casa,1,4000.0
+2026-06-06,Acompañante,Huevo Adicional,3,6000.0
+2026-06-06,Acompañante,Patacones,3,15000.0
+2026-06-06,Acompañante,Porción de Arroz,5,15000.0
+2026-06-06,Almuerzo,Almuerzo Corriente,21,126000.0
+2026-06-06,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-06-06,Almuerzo,Almuerzo Tradicional,32,352000.0
+2026-06-06,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-06-06,Cerveza,Cerveza Águila,1,4500.0
+2026-06-06,Desayuno,Desayuno Especial,9,126000.0
+2026-06-06,Desayuno,Desayuno Sencillo,6,36000.0
+2026-06-06,Desayuno,Desayuno Tradicional,5,60000.0
+2026-06-06,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-06-06,Gaseosa,Gaseosa Personal,11,38500.0
+2026-06-07,Acompañante,Patacones,3,15000.0
+2026-06-07,Acompañante,Porción de Arroz,6,18000.0
+2026-06-07,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-06-07,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-06-07,Almuerzo,Almuerzo Tradicional,22,242000.0
+2026-06-07,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-06-07,Cerveza,Cerveza Poker,1,4000.0
+2026-06-07,Cerveza,Cerveza Águila,2,9000.0
+2026-06-07,Desayuno,Desayuno Especial,7,98000.0
+2026-06-07,Desayuno,Desayuno Sencillo,3,18000.0
+2026-06-07,Desayuno,Desayuno Tradicional,6,72000.0
+2026-06-07,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-06-07,Gaseosa,Gaseosa Personal,13,45500.0
+2026-06-08,Acompañante,Ensalada de la Casa,1,4000.0
+2026-06-08,Acompañante,Papas Fritas,1,5000.0
+2026-06-08,Acompañante,Patacones,2,10000.0
+2026-06-08,Acompañante,Porción de Arroz,5,15000.0
+2026-06-08,Almuerzo,Almuerzo Corriente,31,186000.0
+2026-06-08,Almuerzo,Almuerzo Ejecutivo,18,234000.0
+2026-06-08,Almuerzo,Almuerzo Tradicional,36,396000.0
+2026-06-08,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-06-08,Cerveza,Cerveza Poker,2,8000.0
+2026-06-08,Cerveza,Cerveza Águila,1,4500.0
+2026-06-08,Desayuno,Desayuno Especial,1,14000.0
+2026-06-08,Desayuno,Desayuno Sencillo,8,48000.0
+2026-06-08,Desayuno,Desayuno Tradicional,5,60000.0
+2026-06-08,Gaseosa,Gaseosa 1.5 L,1,7000.0
+2026-06-08,Gaseosa,Gaseosa Personal,22,77000.0
+2026-06-09,Acompañante,Ensalada de la Casa,2,8000.0
+2026-06-09,Acompañante,Papas Fritas,1,5000.0
+2026-06-09,Acompañante,Patacones,5,25000.0
+2026-06-09,Acompañante,Porción de Arroz,2,6000.0
+2026-06-09,Almuerzo,Almuerzo Corriente,31,186000.0
+2026-06-09,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-06-09,Almuerzo,Almuerzo Tradicional,31,341000.0
+2026-06-09,Cerveza,Cerveza Poker,1,4000.0
+2026-06-09,Cerveza,Cerveza Águila,1,4500.0
+2026-06-09,Desayuno,Desayuno Especial,8,112000.0
+2026-06-09,Desayuno,Desayuno Sencillo,2,12000.0
+2026-06-09,Desayuno,Desayuno Tradicional,4,48000.0
+2026-06-09,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-06-09,Gaseosa,Gaseosa Personal,14,49000.0
+2026-06-10,Acompañante,Ensalada de la Casa,4,16000.0
+2026-06-10,Acompañante,Huevo Adicional,1,2000.0
+2026-06-10,Acompañante,Papas Fritas,7,35000.0
+2026-06-10,Acompañante,Porción de Arroz,1,3000.0
+2026-06-10,Almuerzo,Almuerzo Corriente,22,132000.0
+2026-06-10,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-06-10,Almuerzo,Almuerzo Tradicional,34,374000.0
+2026-06-10,Cerveza,Cerveza Poker,2,8000.0
+2026-06-10,Cerveza,Cerveza Águila,4,18000.0
+2026-06-10,Desayuno,Desayuno Especial,5,70000.0
+2026-06-10,Desayuno,Desayuno Sencillo,6,36000.0
+2026-06-10,Desayuno,Desayuno Tradicional,6,72000.0
+2026-06-10,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-06-10,Gaseosa,Gaseosa Personal,7,24500.0
+2026-06-11,Acompañante,Papas Fritas,3,15000.0
+2026-06-11,Acompañante,Patacones,1,5000.0
+2026-06-11,Acompañante,Porción de Arroz,3,9000.0
+2026-06-11,Almuerzo,Almuerzo Corriente,25,150000.0
+2026-06-11,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-06-11,Almuerzo,Almuerzo Tradicional,26,286000.0
+2026-06-11,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-06-11,Cerveza,Cerveza Águila,1,4500.0
+2026-06-11,Desayuno,Desayuno Especial,3,42000.0
+2026-06-11,Desayuno,Desayuno Sencillo,9,54000.0
+2026-06-11,Desayuno,Desayuno Tradicional,5,60000.0
+2026-06-11,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-06-11,Gaseosa,Gaseosa Personal,9,31500.0
+2026-06-12,Acompañante,Ensalada de la Casa,3,12000.0
+2026-06-12,Acompañante,Papas Fritas,1,5000.0
+2026-06-12,Acompañante,Patacones,1,5000.0
+2026-06-12,Acompañante,Porción de Arroz,1,3000.0
+2026-06-12,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-06-12,Almuerzo,Almuerzo Ejecutivo,32,416000.0
+2026-06-12,Almuerzo,Almuerzo Tradicional,30,330000.0
+2026-06-12,Cerveza,Cerveza Águila,1,4500.0
+2026-06-12,Desayuno,Desayuno Especial,3,42000.0
+2026-06-12,Desayuno,Desayuno Sencillo,7,42000.0
+2026-06-12,Desayuno,Desayuno Tradicional,5,60000.0
+2026-06-12,Gaseosa,Gaseosa 1.5 L,7,49000.0
+2026-06-12,Gaseosa,Gaseosa Personal,13,45500.0
+2026-06-13,Acompañante,Ensalada de la Casa,1,4000.0
+2026-06-13,Acompañante,Huevo Adicional,1,2000.0
+2026-06-13,Acompañante,Papas Fritas,3,15000.0
+2026-06-13,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-06-13,Almuerzo,Almuerzo Ejecutivo,24,312000.0
+2026-06-13,Almuerzo,Almuerzo Tradicional,28,308000.0
+2026-06-13,Cerveza,Cerveza Águila,1,4500.0
+2026-06-13,Desayuno,Desayuno Especial,6,84000.0
+2026-06-13,Desayuno,Desayuno Sencillo,6,36000.0
+2026-06-13,Desayuno,Desayuno Tradicional,6,72000.0
+2026-06-13,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-06-13,Gaseosa,Gaseosa Personal,14,49000.0
+2026-06-14,Acompañante,Huevo Adicional,1,2000.0
+2026-06-14,Acompañante,Patacones,2,10000.0
+2026-06-14,Acompañante,Porción de Arroz,3,9000.0
+2026-06-14,Almuerzo,Almuerzo Corriente,25,150000.0
+2026-06-14,Almuerzo,Almuerzo Ejecutivo,25,325000.0
+2026-06-14,Almuerzo,Almuerzo Tradicional,23,253000.0
+2026-06-14,Cerveza,Cerveza Águila,4,18000.0
+2026-06-14,Desayuno,Desayuno Especial,6,84000.0
+2026-06-14,Desayuno,Desayuno Sencillo,5,30000.0
+2026-06-14,Desayuno,Desayuno Tradicional,9,108000.0
+2026-06-14,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-06-14,Gaseosa,Gaseosa Personal,16,56000.0
+2026-06-15,Acompañante,Ensalada de la Casa,1,4000.0
+2026-06-15,Acompañante,Porción de Arroz,5,15000.0
+2026-06-15,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-06-15,Almuerzo,Almuerzo Ejecutivo,25,325000.0
+2026-06-15,Almuerzo,Almuerzo Tradicional,28,308000.0
+2026-06-15,Cerveza,Cerveza Águila,1,4500.0
+2026-06-15,Desayuno,Desayuno Especial,6,84000.0
+2026-06-15,Desayuno,Desayuno Sencillo,3,18000.0
+2026-06-15,Desayuno,Desayuno Tradicional,3,36000.0
+2026-06-15,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-06-15,Gaseosa,Gaseosa Personal,15,52500.0
+2026-06-16,Acompañante,Ensalada de la Casa,6,24000.0
+2026-06-16,Acompañante,Huevo Adicional,2,4000.0
+2026-06-16,Acompañante,Patacones,2,10000.0
+2026-06-16,Acompañante,Porción de Arroz,3,9000.0
+2026-06-16,Almuerzo,Almuerzo Corriente,35,210000.0
+2026-06-16,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-06-16,Almuerzo,Almuerzo Tradicional,25,275000.0
+2026-06-16,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-06-16,Cerveza,Cerveza Águila,4,18000.0
+2026-06-16,Desayuno,Desayuno Especial,7,98000.0
+2026-06-16,Desayuno,Desayuno Sencillo,2,12000.0
+2026-06-16,Desayuno,Desayuno Tradicional,4,48000.0
+2026-06-16,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-06-16,Gaseosa,Gaseosa Personal,12,42000.0
+2026-06-17,Acompañante,Ensalada de la Casa,2,8000.0
+2026-06-17,Acompañante,Huevo Adicional,4,8000.0
+2026-06-17,Acompañante,Papas Fritas,2,10000.0
+2026-06-17,Acompañante,Porción de Arroz,4,12000.0
+2026-06-17,Almuerzo,Almuerzo Corriente,23,138000.0
+2026-06-17,Almuerzo,Almuerzo Ejecutivo,28,364000.0
+2026-06-17,Almuerzo,Almuerzo Tradicional,35,385000.0
+2026-06-17,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-06-17,Cerveza,Cerveza Poker,4,16000.0
+2026-06-17,Cerveza,Cerveza Águila,1,4500.0
+2026-06-17,Desayuno,Desayuno Especial,4,56000.0
+2026-06-17,Desayuno,Desayuno Sencillo,4,24000.0
+2026-06-17,Desayuno,Desayuno Tradicional,6,72000.0
+2026-06-17,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-06-17,Gaseosa,Gaseosa Personal,16,56000.0
+2026-06-18,Acompañante,Huevo Adicional,3,6000.0
+2026-06-18,Acompañante,Papas Fritas,6,30000.0
+2026-06-18,Acompañante,Patacones,4,20000.0
+2026-06-18,Acompañante,Porción de Arroz,1,3000.0
+2026-06-18,Almuerzo,Almuerzo Corriente,36,216000.0
+2026-06-18,Almuerzo,Almuerzo Ejecutivo,14,182000.0
+2026-06-18,Almuerzo,Almuerzo Tradicional,33,363000.0
+2026-06-18,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-06-18,Cerveza,Cerveza Águila,4,18000.0
+2026-06-18,Desayuno,Desayuno Especial,4,56000.0
+2026-06-18,Desayuno,Desayuno Sencillo,5,30000.0
+2026-06-18,Desayuno,Desayuno Tradicional,6,72000.0
+2026-06-18,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-06-18,Gaseosa,Gaseosa Personal,13,45500.0
+2026-06-19,Acompañante,Ensalada de la Casa,4,16000.0
+2026-06-19,Acompañante,Huevo Adicional,3,6000.0
+2026-06-19,Acompañante,Papas Fritas,1,5000.0
+2026-06-19,Acompañante,Patacones,1,5000.0
+2026-06-19,Acompañante,Porción de Arroz,4,12000.0
+2026-06-19,Almuerzo,Almuerzo Corriente,27,162000.0
+2026-06-19,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-06-19,Almuerzo,Almuerzo Tradicional,24,264000.0
+2026-06-19,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-06-19,Cerveza,Cerveza Águila,2,9000.0
+2026-06-19,Desayuno,Desayuno Especial,4,56000.0
+2026-06-19,Desayuno,Desayuno Sencillo,9,54000.0
+2026-06-19,Desayuno,Desayuno Tradicional,6,72000.0
+2026-06-19,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-06-19,Gaseosa,Gaseosa Personal,10,35000.0
+2026-06-20,Acompañante,Ensalada de la Casa,2,8000.0
+2026-06-20,Acompañante,Huevo Adicional,5,10000.0
+2026-06-20,Acompañante,Papas Fritas,3,15000.0
+2026-06-20,Acompañante,Patacones,1,5000.0
+2026-06-20,Acompañante,Porción de Arroz,4,12000.0
+2026-06-20,Almuerzo,Almuerzo Corriente,33,198000.0
+2026-06-20,Almuerzo,Almuerzo Ejecutivo,22,286000.0
+2026-06-20,Almuerzo,Almuerzo Tradicional,28,308000.0
+2026-06-20,Cerveza,Cerveza Águila,1,4500.0
+2026-06-20,Desayuno,Desayuno Especial,4,56000.0
+2026-06-20,Desayuno,Desayuno Sencillo,6,36000.0
+2026-06-20,Desayuno,Desayuno Tradicional,4,48000.0
+2026-06-20,Gaseosa,Gaseosa 1.5 L,1,7000.0
+2026-06-20,Gaseosa,Gaseosa Personal,17,59500.0
+2026-06-21,Acompañante,Patacones,4,20000.0
+2026-06-21,Acompañante,Porción de Arroz,2,6000.0
+2026-06-21,Almuerzo,Almuerzo Corriente,22,132000.0
+2026-06-21,Almuerzo,Almuerzo Ejecutivo,22,286000.0
+2026-06-21,Almuerzo,Almuerzo Tradicional,36,396000.0
+2026-06-21,Cerveza,Cerveza Club Colombia,3,16500.0
+2026-06-21,Desayuno,Desayuno Especial,7,98000.0
+2026-06-21,Desayuno,Desayuno Sencillo,4,24000.0
+2026-06-21,Desayuno,Desayuno Tradicional,9,108000.0
+2026-06-21,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-06-21,Gaseosa,Gaseosa Personal,12,42000.0
+2026-06-22,Acompañante,Huevo Adicional,1,2000.0
+2026-06-22,Acompañante,Papas Fritas,1,5000.0
+2026-06-22,Acompañante,Patacones,1,5000.0
+2026-06-22,Acompañante,Porción de Arroz,8,24000.0
+2026-06-22,Almuerzo,Almuerzo Corriente,23,138000.0
+2026-06-22,Almuerzo,Almuerzo Ejecutivo,23,299000.0
+2026-06-22,Almuerzo,Almuerzo Tradicional,26,286000.0
+2026-06-22,Cerveza,Cerveza Águila,2,9000.0
+2026-06-22,Desayuno,Desayuno Especial,9,126000.0
+2026-06-22,Desayuno,Desayuno Sencillo,6,36000.0
+2026-06-22,Desayuno,Desayuno Tradicional,8,96000.0
+2026-06-22,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-06-22,Gaseosa,Gaseosa Personal,19,66500.0
+2026-06-23,Acompañante,Ensalada de la Casa,1,4000.0
+2026-06-23,Acompañante,Huevo Adicional,5,10000.0
+2026-06-23,Acompañante,Papas Fritas,1,5000.0
+2026-06-23,Acompañante,Porción de Arroz,1,3000.0
+2026-06-23,Almuerzo,Almuerzo Corriente,27,162000.0
+2026-06-23,Almuerzo,Almuerzo Ejecutivo,19,247000.0
+2026-06-23,Almuerzo,Almuerzo Tradicional,31,341000.0
+2026-06-23,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-06-23,Cerveza,Cerveza Poker,3,12000.0
+2026-06-23,Desayuno,Desayuno Especial,11,154000.0
+2026-06-23,Desayuno,Desayuno Sencillo,4,24000.0
+2026-06-23,Desayuno,Desayuno Tradicional,6,72000.0
+2026-06-23,Gaseosa,Gaseosa 1.5 L,6,42000.0
+2026-06-23,Gaseosa,Gaseosa Personal,13,45500.0
+2026-06-24,Acompañante,Huevo Adicional,2,4000.0
+2026-06-24,Acompañante,Papas Fritas,2,10000.0
+2026-06-24,Acompañante,Patacones,1,5000.0
+2026-06-24,Acompañante,Porción de Arroz,6,18000.0
+2026-06-24,Almuerzo,Almuerzo Corriente,30,180000.0
+2026-06-24,Almuerzo,Almuerzo Ejecutivo,30,390000.0
+2026-06-24,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-06-24,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-06-24,Desayuno,Desayuno Sencillo,4,24000.0
+2026-06-24,Desayuno,Desayuno Tradicional,8,96000.0
+2026-06-24,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-06-24,Gaseosa,Gaseosa Personal,16,56000.0
+2026-06-25,Acompañante,Ensalada de la Casa,2,8000.0
+2026-06-25,Acompañante,Huevo Adicional,3,6000.0
+2026-06-25,Acompañante,Papas Fritas,1,5000.0
+2026-06-25,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-06-25,Almuerzo,Almuerzo Ejecutivo,16,208000.0
+2026-06-25,Almuerzo,Almuerzo Tradicional,32,352000.0
+2026-06-25,Cerveza,Cerveza Poker,1,4000.0
+2026-06-25,Cerveza,Cerveza Águila,3,13500.0
+2026-06-25,Desayuno,Desayuno Especial,5,70000.0
+2026-06-25,Desayuno,Desayuno Sencillo,8,48000.0
+2026-06-25,Desayuno,Desayuno Tradicional,7,84000.0
+2026-06-25,Gaseosa,Gaseosa 1.5 L,6,42000.0
+2026-06-25,Gaseosa,Gaseosa Personal,9,31500.0
+2026-06-26,Acompañante,Ensalada de la Casa,2,8000.0
+2026-06-26,Acompañante,Huevo Adicional,1,2000.0
+2026-06-26,Acompañante,Papas Fritas,3,15000.0
+2026-06-26,Acompañante,Patacones,3,15000.0
+2026-06-26,Acompañante,Porción de Arroz,5,15000.0
+2026-06-26,Almuerzo,Almuerzo Corriente,24,144000.0
+2026-06-26,Almuerzo,Almuerzo Ejecutivo,29,377000.0
+2026-06-26,Almuerzo,Almuerzo Tradicional,31,341000.0
+2026-06-26,Cerveza,Cerveza Poker,1,4000.0
+2026-06-26,Cerveza,Cerveza Águila,1,4500.0
+2026-06-26,Desayuno,Desayuno Especial,9,126000.0
+2026-06-26,Desayuno,Desayuno Sencillo,2,12000.0
+2026-06-26,Desayuno,Desayuno Tradicional,5,60000.0
+2026-06-26,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-06-26,Gaseosa,Gaseosa Personal,9,31500.0
+2026-06-27,Acompañante,Ensalada de la Casa,1,4000.0
+2026-06-27,Acompañante,Huevo Adicional,3,6000.0
+2026-06-27,Acompañante,Papas Fritas,2,10000.0
+2026-06-27,Acompañante,Patacones,4,20000.0
+2026-06-27,Acompañante,Porción de Arroz,2,6000.0
+2026-06-27,Almuerzo,Almuerzo Corriente,27,162000.0
+2026-06-27,Almuerzo,Almuerzo Ejecutivo,27,351000.0
+2026-06-27,Almuerzo,Almuerzo Tradicional,27,297000.0
+2026-06-27,Cerveza,Cerveza Poker,3,12000.0
+2026-06-27,Cerveza,Cerveza Águila,1,4500.0
+2026-06-27,Desayuno,Desayuno Especial,6,84000.0
+2026-06-27,Desayuno,Desayuno Sencillo,3,18000.0
+2026-06-27,Desayuno,Desayuno Tradicional,6,72000.0
+2026-06-27,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-06-27,Gaseosa,Gaseosa Personal,13,45500.0
+2026-06-28,Acompañante,Huevo Adicional,3,6000.0
+2026-06-28,Acompañante,Papas Fritas,3,15000.0
+2026-06-28,Acompañante,Porción de Arroz,4,12000.0
+2026-06-28,Almuerzo,Almuerzo Corriente,26,156000.0
+2026-06-28,Almuerzo,Almuerzo Ejecutivo,33,429000.0
+2026-06-28,Almuerzo,Almuerzo Tradicional,23,253000.0
+2026-06-28,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-06-28,Cerveza,Cerveza Poker,1,4000.0
+2026-06-28,Cerveza,Cerveza Águila,3,13500.0
+2026-06-28,Desayuno,Desayuno Especial,4,56000.0
+2026-06-28,Desayuno,Desayuno Sencillo,3,18000.0
+2026-06-28,Desayuno,Desayuno Tradicional,6,72000.0
+2026-06-28,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-06-28,Gaseosa,Gaseosa Personal,13,45500.0
+2026-06-29,Acompañante,Ensalada de la Casa,2,8000.0
+2026-06-29,Acompañante,Huevo Adicional,2,4000.0
+2026-06-29,Acompañante,Papas Fritas,2,10000.0
+2026-06-29,Acompañante,Patacones,2,10000.0
+2026-06-29,Acompañante,Porción de Arroz,3,9000.0
+2026-06-29,Almuerzo,Almuerzo Corriente,28,168000.0
+2026-06-29,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-06-29,Almuerzo,Almuerzo Tradicional,28,308000.0
+2026-06-29,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-06-29,Cerveza,Cerveza Águila,2,9000.0
+2026-06-29,Desayuno,Desayuno Especial,6,84000.0
+2026-06-29,Desayuno,Desayuno Sencillo,8,48000.0
+2026-06-29,Desayuno,Desayuno Tradicional,6,72000.0
+2026-06-29,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-06-29,Gaseosa,Gaseosa Personal,14,49000.0
+2026-06-30,Acompañante,Ensalada de la Casa,4,16000.0
+2026-06-30,Acompañante,Huevo Adicional,2,4000.0
+2026-06-30,Acompañante,Papas Fritas,2,10000.0
+2026-06-30,Acompañante,Patacones,2,10000.0
+2026-06-30,Almuerzo,Almuerzo Corriente,31,186000.0
+2026-06-30,Almuerzo,Almuerzo Ejecutivo,23,299000.0
+2026-06-30,Almuerzo,Almuerzo Tradicional,28,308000.0
+2026-06-30,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-06-30,Cerveza,Cerveza Poker,1,4000.0
+2026-06-30,Desayuno,Desayuno Especial,5,70000.0
+2026-06-30,Desayuno,Desayuno Sencillo,5,30000.0
+2026-06-30,Desayuno,Desayuno Tradicional,4,48000.0
+2026-06-30,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-06-30,Gaseosa,Gaseosa Personal,12,42000.0
+2026-07-01,Acompañante,Ensalada de la Casa,3,12000.0
+2026-07-01,Acompañante,Huevo Adicional,1,2000.0
+2026-07-01,Acompañante,Patacones,1,5000.0
+2026-07-01,Acompañante,Porción de Arroz,5,15000.0
+2026-07-01,Almuerzo,Almuerzo Corriente,28,168000.0
+2026-07-01,Almuerzo,Almuerzo Ejecutivo,25,325000.0
+2026-07-01,Almuerzo,Almuerzo Tradicional,28,308000.0
+2026-07-01,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-07-01,Cerveza,Cerveza Águila,1,4500.0
+2026-07-01,Desayuno,Desayuno Especial,3,42000.0
+2026-07-01,Desayuno,Desayuno Sencillo,3,18000.0
+2026-07-01,Desayuno,Desayuno Tradicional,4,48000.0
+2026-07-01,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-07-01,Gaseosa,Gaseosa Personal,11,38500.0
+2026-07-02,Acompañante,Ensalada de la Casa,3,12000.0
+2026-07-02,Acompañante,Huevo Adicional,1,2000.0
+2026-07-02,Acompañante,Papas Fritas,2,10000.0
+2026-07-02,Acompañante,Patacones,3,15000.0
+2026-07-02,Acompañante,Porción de Arroz,4,12000.0
+2026-07-02,Almuerzo,Almuerzo Corriente,24,144000.0
+2026-07-02,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-07-02,Almuerzo,Almuerzo Tradicional,25,275000.0
+2026-07-02,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-07-02,Cerveza,Cerveza Poker,2,8000.0
+2026-07-02,Desayuno,Desayuno Especial,7,98000.0
+2026-07-02,Desayuno,Desayuno Sencillo,5,30000.0
+2026-07-02,Desayuno,Desayuno Tradicional,7,84000.0
+2026-07-02,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-07-02,Gaseosa,Gaseosa Personal,17,59500.0
+2026-07-03,Acompañante,Ensalada de la Casa,2,8000.0
+2026-07-03,Acompañante,Huevo Adicional,2,4000.0
+2026-07-03,Acompañante,Papas Fritas,2,10000.0
+2026-07-03,Acompañante,Patacones,4,20000.0
+2026-07-03,Almuerzo,Almuerzo Corriente,22,132000.0
+2026-07-03,Almuerzo,Almuerzo Ejecutivo,27,351000.0
+2026-07-03,Almuerzo,Almuerzo Tradicional,33,363000.0
+2026-07-03,Cerveza,Cerveza Poker,1,4000.0
+2026-07-03,Desayuno,Desayuno Especial,4,56000.0
+2026-07-03,Desayuno,Desayuno Sencillo,4,24000.0
+2026-07-03,Desayuno,Desayuno Tradicional,7,84000.0
+2026-07-03,Gaseosa,Gaseosa 1.5 L,7,49000.0
+2026-07-03,Gaseosa,Gaseosa Personal,10,35000.0
+2026-07-04,Acompañante,Ensalada de la Casa,1,4000.0
+2026-07-04,Acompañante,Huevo Adicional,3,6000.0
+2026-07-04,Acompañante,Porción de Arroz,4,12000.0
+2026-07-04,Almuerzo,Almuerzo Corriente,23,138000.0
+2026-07-04,Almuerzo,Almuerzo Ejecutivo,19,247000.0
+2026-07-04,Almuerzo,Almuerzo Tradicional,36,396000.0
+2026-07-04,Desayuno,Desayuno Especial,6,84000.0
+2026-07-04,Desayuno,Desayuno Sencillo,7,42000.0
+2026-07-04,Desayuno,Desayuno Tradicional,7,84000.0
+2026-07-04,Gaseosa,Gaseosa 1.5 L,8,56000.0
+2026-07-04,Gaseosa,Gaseosa Personal,14,49000.0
+2026-07-05,Acompañante,Ensalada de la Casa,3,12000.0
+2026-07-05,Acompañante,Huevo Adicional,1,2000.0
+2026-07-05,Acompañante,Papas Fritas,4,20000.0
+2026-07-05,Acompañante,Porción de Arroz,4,12000.0
+2026-07-05,Almuerzo,Almuerzo Corriente,30,180000.0
+2026-07-05,Almuerzo,Almuerzo Ejecutivo,24,312000.0
+2026-07-05,Almuerzo,Almuerzo Tradicional,34,374000.0
+2026-07-05,Cerveza,Cerveza Águila,2,9000.0
+2026-07-05,Desayuno,Desayuno Especial,5,70000.0
+2026-07-05,Desayuno,Desayuno Sencillo,4,24000.0
+2026-07-05,Desayuno,Desayuno Tradicional,4,48000.0
+2026-07-05,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-07-05,Gaseosa,Gaseosa Personal,15,52500.0
+2026-07-06,Acompañante,Ensalada de la Casa,2,8000.0
+2026-07-06,Acompañante,Huevo Adicional,2,4000.0
+2026-07-06,Acompañante,Papas Fritas,5,25000.0
+2026-07-06,Acompañante,Patacones,1,5000.0
+2026-07-06,Acompañante,Porción de Arroz,1,3000.0
+2026-07-06,Almuerzo,Almuerzo Corriente,32,192000.0
+2026-07-06,Almuerzo,Almuerzo Ejecutivo,23,299000.0
+2026-07-06,Almuerzo,Almuerzo Tradicional,21,231000.0
+2026-07-06,Cerveza,Cerveza Águila,1,4500.0
+2026-07-06,Desayuno,Desayuno Especial,2,28000.0
+2026-07-06,Desayuno,Desayuno Sencillo,8,48000.0
+2026-07-06,Desayuno,Desayuno Tradicional,10,120000.0
+2026-07-06,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-07-06,Gaseosa,Gaseosa Personal,21,73500.0
+2026-07-07,Acompañante,Ensalada de la Casa,2,8000.0
+2026-07-07,Acompañante,Huevo Adicional,7,14000.0
+2026-07-07,Acompañante,Papas Fritas,3,15000.0
+2026-07-07,Acompañante,Porción de Arroz,1,3000.0
+2026-07-07,Almuerzo,Almuerzo Corriente,25,150000.0
+2026-07-07,Almuerzo,Almuerzo Ejecutivo,30,390000.0
+2026-07-07,Almuerzo,Almuerzo Tradicional,32,352000.0
+2026-07-07,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-07-07,Desayuno,Desayuno Especial,3,42000.0
+2026-07-07,Desayuno,Desayuno Sencillo,4,24000.0
+2026-07-07,Desayuno,Desayuno Tradicional,6,72000.0
+2026-07-07,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-07-07,Gaseosa,Gaseosa Personal,10,35000.0
+2026-07-08,Acompañante,Ensalada de la Casa,1,4000.0
+2026-07-08,Acompañante,Papas Fritas,2,10000.0
+2026-07-08,Acompañante,Patacones,3,15000.0
+2026-07-08,Almuerzo,Almuerzo Corriente,18,108000.0
+2026-07-08,Almuerzo,Almuerzo Ejecutivo,30,390000.0
+2026-07-08,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-07-08,Cerveza,Cerveza Club Colombia,3,16500.0
+2026-07-08,Cerveza,Cerveza Águila,2,9000.0
+2026-07-08,Desayuno,Desayuno Especial,6,84000.0
+2026-07-08,Desayuno,Desayuno Sencillo,9,54000.0
+2026-07-08,Desayuno,Desayuno Tradicional,4,48000.0
+2026-07-08,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-07-08,Gaseosa,Gaseosa Personal,18,63000.0
+2026-07-09,Acompañante,Ensalada de la Casa,1,4000.0
+2026-07-09,Acompañante,Huevo Adicional,1,2000.0
+2026-07-09,Acompañante,Papas Fritas,3,15000.0
+2026-07-09,Acompañante,Patacones,3,15000.0
+2026-07-09,Acompañante,Porción de Arroz,7,21000.0
+2026-07-09,Almuerzo,Almuerzo Corriente,24,144000.0
+2026-07-09,Almuerzo,Almuerzo Ejecutivo,28,364000.0
+2026-07-09,Almuerzo,Almuerzo Tradicional,32,352000.0
+2026-07-09,Cerveza,Cerveza Águila,1,4500.0
+2026-07-09,Desayuno,Desayuno Especial,5,70000.0
+2026-07-09,Desayuno,Desayuno Sencillo,5,30000.0
+2026-07-09,Desayuno,Desayuno Tradicional,4,48000.0
+2026-07-09,Gaseosa,Gaseosa 1.5 L,6,42000.0
+2026-07-09,Gaseosa,Gaseosa Personal,16,56000.0
+2026-07-10,Acompañante,Ensalada de la Casa,3,12000.0
+2026-07-10,Acompañante,Huevo Adicional,3,6000.0
+2026-07-10,Acompañante,Patacones,5,25000.0
+2026-07-10,Acompañante,Porción de Arroz,2,6000.0
+2026-07-10,Almuerzo,Almuerzo Corriente,28,168000.0
+2026-07-10,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-07-10,Almuerzo,Almuerzo Tradicional,27,297000.0
+2026-07-10,Cerveza,Cerveza Poker,2,8000.0
+2026-07-10,Cerveza,Cerveza Águila,1,4500.0
+2026-07-10,Desayuno,Desayuno Especial,5,70000.0
+2026-07-10,Desayuno,Desayuno Sencillo,8,48000.0
+2026-07-10,Desayuno,Desayuno Tradicional,3,36000.0
+2026-07-10,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-07-10,Gaseosa,Gaseosa Personal,19,66500.0
+2026-07-11,Acompañante,Ensalada de la Casa,1,4000.0
+2026-07-11,Acompañante,Papas Fritas,2,10000.0
+2026-07-11,Acompañante,Patacones,2,10000.0
+2026-07-11,Acompañante,Porción de Arroz,6,18000.0
+2026-07-11,Almuerzo,Almuerzo Corriente,26,156000.0
+2026-07-11,Almuerzo,Almuerzo Ejecutivo,25,325000.0
+2026-07-11,Almuerzo,Almuerzo Tradicional,33,363000.0
+2026-07-11,Cerveza,Cerveza Águila,2,9000.0
+2026-07-11,Desayuno,Desayuno Especial,4,56000.0
+2026-07-11,Desayuno,Desayuno Sencillo,7,42000.0
+2026-07-11,Desayuno,Desayuno Tradicional,5,60000.0
+2026-07-11,Gaseosa,Gaseosa 1.5 L,6,42000.0
+2026-07-11,Gaseosa,Gaseosa Personal,12,42000.0
+2026-07-12,Acompañante,Ensalada de la Casa,2,8000.0
+2026-07-12,Acompañante,Huevo Adicional,2,4000.0
+2026-07-12,Acompañante,Patacones,1,5000.0
+2026-07-12,Acompañante,Porción de Arroz,1,3000.0
+2026-07-12,Almuerzo,Almuerzo Corriente,33,198000.0
+2026-07-12,Almuerzo,Almuerzo Ejecutivo,27,351000.0
+2026-07-12,Almuerzo,Almuerzo Tradicional,20,220000.0
+2026-07-12,Cerveza,Cerveza Águila,3,13500.0
+2026-07-12,Desayuno,Desayuno Especial,8,112000.0
+2026-07-12,Desayuno,Desayuno Sencillo,2,12000.0
+2026-07-12,Desayuno,Desayuno Tradicional,5,60000.0
+2026-07-12,Gaseosa,Gaseosa 1.5 L,1,7000.0
+2026-07-12,Gaseosa,Gaseosa Personal,21,73500.0
+2026-07-13,Acompañante,Ensalada de la Casa,1,4000.0
+2026-07-13,Acompañante,Patacones,4,20000.0
+2026-07-13,Acompañante,Porción de Arroz,1,3000.0
+2026-07-13,Almuerzo,Almuerzo Corriente,24,144000.0
+2026-07-13,Almuerzo,Almuerzo Ejecutivo,23,299000.0
+2026-07-13,Almuerzo,Almuerzo Tradicional,33,363000.0
+2026-07-13,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-07-13,Desayuno,Desayuno Especial,8,112000.0
+2026-07-13,Desayuno,Desayuno Sencillo,3,18000.0
+2026-07-13,Desayuno,Desayuno Tradicional,6,72000.0
+2026-07-13,Gaseosa,Gaseosa 1.5 L,1,7000.0
+2026-07-13,Gaseosa,Gaseosa Personal,8,28000.0
+2026-07-14,Acompañante,Ensalada de la Casa,6,24000.0
+2026-07-14,Acompañante,Papas Fritas,6,30000.0
+2026-07-14,Acompañante,Patacones,1,5000.0
+2026-07-14,Acompañante,Porción de Arroz,4,12000.0
+2026-07-14,Almuerzo,Almuerzo Corriente,24,144000.0
+2026-07-14,Almuerzo,Almuerzo Ejecutivo,23,299000.0
+2026-07-14,Almuerzo,Almuerzo Tradicional,33,363000.0
+2026-07-14,Cerveza,Cerveza Poker,2,8000.0
+2026-07-14,Cerveza,Cerveza Águila,1,4500.0
+2026-07-14,Desayuno,Desayuno Especial,7,98000.0
+2026-07-14,Desayuno,Desayuno Sencillo,3,18000.0
+2026-07-14,Desayuno,Desayuno Tradicional,7,84000.0
+2026-07-14,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-07-14,Gaseosa,Gaseosa Personal,6,21000.0
+2026-07-15,Acompañante,Huevo Adicional,3,6000.0
+2026-07-15,Acompañante,Papas Fritas,2,10000.0
+2026-07-15,Acompañante,Patacones,7,35000.0
+2026-07-15,Acompañante,Porción de Arroz,1,3000.0
+2026-07-15,Almuerzo,Almuerzo Corriente,26,156000.0
+2026-07-15,Almuerzo,Almuerzo Ejecutivo,29,377000.0
+2026-07-15,Almuerzo,Almuerzo Tradicional,21,231000.0
+2026-07-15,Cerveza,Cerveza Águila,4,18000.0
+2026-07-15,Desayuno,Desayuno Especial,7,98000.0
+2026-07-15,Desayuno,Desayuno Sencillo,9,54000.0
+2026-07-15,Desayuno,Desayuno Tradicional,6,72000.0
+2026-07-15,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-07-15,Gaseosa,Gaseosa Personal,5,17500.0
+2026-07-16,Acompañante,Ensalada de la Casa,2,8000.0
+2026-07-16,Acompañante,Papas Fritas,2,10000.0
+2026-07-16,Acompañante,Patacones,1,5000.0
+2026-07-16,Acompañante,Porción de Arroz,2,6000.0
+2026-07-16,Almuerzo,Almuerzo Corriente,27,162000.0
+2026-07-16,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-07-16,Almuerzo,Almuerzo Tradicional,33,363000.0
+2026-07-16,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-07-16,Cerveza,Cerveza Poker,1,4000.0
+2026-07-16,Cerveza,Cerveza Águila,2,9000.0
+2026-07-16,Desayuno,Desayuno Especial,3,42000.0
+2026-07-16,Desayuno,Desayuno Sencillo,7,42000.0
+2026-07-16,Desayuno,Desayuno Tradicional,4,48000.0
+2026-07-16,Gaseosa,Gaseosa 1.5 L,8,56000.0
+2026-07-16,Gaseosa,Gaseosa Personal,9,31500.0
+2026-07-17,Acompañante,Ensalada de la Casa,4,16000.0
+2026-07-17,Acompañante,Huevo Adicional,1,2000.0
+2026-07-17,Acompañante,Papas Fritas,2,10000.0
+2026-07-17,Acompañante,Porción de Arroz,2,6000.0
+2026-07-17,Almuerzo,Almuerzo Corriente,28,168000.0
+2026-07-17,Almuerzo,Almuerzo Ejecutivo,21,273000.0
+2026-07-17,Almuerzo,Almuerzo Tradicional,24,264000.0
+2026-07-17,Cerveza,Cerveza Águila,1,4500.0
+2026-07-17,Desayuno,Desayuno Especial,4,56000.0
+2026-07-17,Desayuno,Desayuno Sencillo,9,54000.0
+2026-07-17,Desayuno,Desayuno Tradicional,5,60000.0
+2026-07-17,Gaseosa,Gaseosa 1.5 L,1,7000.0
+2026-07-17,Gaseosa,Gaseosa Personal,22,77000.0
+2026-07-18,Acompañante,Ensalada de la Casa,5,20000.0
+2026-07-18,Acompañante,Papas Fritas,1,5000.0
+2026-07-18,Acompañante,Patacones,1,5000.0
+2026-07-18,Acompañante,Porción de Arroz,5,15000.0
+2026-07-18,Almuerzo,Almuerzo Corriente,24,144000.0
+2026-07-18,Almuerzo,Almuerzo Ejecutivo,21,273000.0
+2026-07-18,Almuerzo,Almuerzo Tradicional,32,352000.0
+2026-07-18,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-07-18,Desayuno,Desayuno Especial,9,126000.0
+2026-07-18,Desayuno,Desayuno Sencillo,6,36000.0
+2026-07-18,Desayuno,Desayuno Tradicional,3,36000.0
+2026-07-18,Gaseosa,Gaseosa 1.5 L,7,49000.0
+2026-07-18,Gaseosa,Gaseosa Personal,9,31500.0
+2026-07-19,Acompañante,Ensalada de la Casa,1,4000.0
+2026-07-19,Acompañante,Huevo Adicional,2,4000.0
+2026-07-19,Acompañante,Papas Fritas,2,10000.0
+2026-07-19,Acompañante,Patacones,2,10000.0
+2026-07-19,Acompañante,Porción de Arroz,2,6000.0
+2026-07-19,Almuerzo,Almuerzo Corriente,31,186000.0
+2026-07-19,Almuerzo,Almuerzo Ejecutivo,31,403000.0
+2026-07-19,Almuerzo,Almuerzo Tradicional,20,220000.0
+2026-07-19,Desayuno,Desayuno Especial,3,42000.0
+2026-07-19,Desayuno,Desayuno Sencillo,7,42000.0
+2026-07-19,Desayuno,Desayuno Tradicional,5,60000.0
+2026-07-19,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-07-19,Gaseosa,Gaseosa Personal,13,45500.0
+2026-07-20,Acompañante,Ensalada de la Casa,5,20000.0
+2026-07-20,Acompañante,Huevo Adicional,1,2000.0
+2026-07-20,Acompañante,Papas Fritas,1,5000.0
+2026-07-20,Acompañante,Porción de Arroz,6,18000.0
+2026-07-20,Almuerzo,Almuerzo Corriente,30,180000.0
+2026-07-20,Almuerzo,Almuerzo Ejecutivo,28,364000.0
+2026-07-20,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-07-20,Desayuno,Desayuno Especial,5,70000.0
+2026-07-20,Desayuno,Desayuno Sencillo,7,42000.0
+2026-07-20,Desayuno,Desayuno Tradicional,5,60000.0
+2026-07-20,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-07-20,Gaseosa,Gaseosa Personal,8,28000.0
+2026-07-21,Acompañante,Ensalada de la Casa,2,8000.0
+2026-07-21,Acompañante,Huevo Adicional,2,4000.0
+2026-07-21,Acompañante,Papas Fritas,3,15000.0
+2026-07-21,Acompañante,Patacones,1,5000.0
+2026-07-21,Acompañante,Porción de Arroz,3,9000.0
+2026-07-21,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-07-21,Almuerzo,Almuerzo Ejecutivo,30,390000.0
+2026-07-21,Almuerzo,Almuerzo Tradicional,27,297000.0
+2026-07-21,Cerveza,Cerveza Poker,1,4000.0
+2026-07-21,Cerveza,Cerveza Águila,2,9000.0
+2026-07-21,Desayuno,Desayuno Especial,3,42000.0
+2026-07-21,Desayuno,Desayuno Sencillo,8,48000.0
+2026-07-21,Desayuno,Desayuno Tradicional,4,48000.0
+2026-07-21,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-07-21,Gaseosa,Gaseosa Personal,8,28000.0
+2026-07-22,Acompañante,Ensalada de la Casa,1,4000.0
+2026-07-22,Acompañante,Huevo Adicional,1,2000.0
+2026-07-22,Acompañante,Patacones,7,35000.0
+2026-07-22,Acompañante,Porción de Arroz,4,12000.0
+2026-07-22,Almuerzo,Almuerzo Corriente,25,150000.0
+2026-07-22,Almuerzo,Almuerzo Ejecutivo,28,364000.0
+2026-07-22,Almuerzo,Almuerzo Tradicional,27,297000.0
+2026-07-22,Cerveza,Cerveza Poker,2,8000.0
+2026-07-22,Cerveza,Cerveza Águila,2,9000.0
+2026-07-22,Desayuno,Desayuno Especial,7,98000.0
+2026-07-22,Desayuno,Desayuno Sencillo,3,18000.0
+2026-07-22,Desayuno,Desayuno Tradicional,7,84000.0
+2026-07-22,Gaseosa,Gaseosa 1.5 L,1,7000.0
+2026-07-22,Gaseosa,Gaseosa Personal,11,38500.0
+2026-07-23,Acompañante,Ensalada de la Casa,1,4000.0
+2026-07-23,Acompañante,Huevo Adicional,2,4000.0
+2026-07-23,Acompañante,Papas Fritas,2,10000.0
+2026-07-23,Acompañante,Patacones,3,15000.0
+2026-07-23,Acompañante,Porción de Arroz,2,6000.0
+2026-07-23,Almuerzo,Almuerzo Corriente,26,156000.0
+2026-07-23,Almuerzo,Almuerzo Ejecutivo,24,312000.0
+2026-07-23,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-07-23,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-07-23,Cerveza,Cerveza Águila,2,9000.0
+2026-07-23,Desayuno,Desayuno Especial,8,112000.0
+2026-07-23,Desayuno,Desayuno Sencillo,2,12000.0
+2026-07-23,Desayuno,Desayuno Tradicional,10,120000.0
+2026-07-23,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-07-23,Gaseosa,Gaseosa Personal,11,38500.0
+2026-07-24,Acompañante,Huevo Adicional,3,6000.0
+2026-07-24,Acompañante,Patacones,3,15000.0
+2026-07-24,Acompañante,Porción de Arroz,4,12000.0
+2026-07-24,Almuerzo,Almuerzo Corriente,24,144000.0
+2026-07-24,Almuerzo,Almuerzo Ejecutivo,25,325000.0
+2026-07-24,Almuerzo,Almuerzo Tradicional,31,341000.0
+2026-07-24,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-07-24,Cerveza,Cerveza Poker,1,4000.0
+2026-07-24,Desayuno,Desayuno Especial,7,98000.0
+2026-07-24,Desayuno,Desayuno Sencillo,6,36000.0
+2026-07-24,Desayuno,Desayuno Tradicional,5,60000.0
+2026-07-24,Gaseosa,Gaseosa 1.5 L,6,42000.0
+2026-07-24,Gaseosa,Gaseosa Personal,12,42000.0
+2026-07-25,Acompañante,Ensalada de la Casa,2,8000.0
+2026-07-25,Acompañante,Huevo Adicional,1,2000.0
+2026-07-25,Acompañante,Papas Fritas,6,30000.0
+2026-07-25,Acompañante,Patacones,1,5000.0
+2026-07-25,Acompañante,Porción de Arroz,2,6000.0
+2026-07-25,Almuerzo,Almuerzo Corriente,24,144000.0
+2026-07-25,Almuerzo,Almuerzo Ejecutivo,35,455000.0
+2026-07-25,Almuerzo,Almuerzo Tradicional,26,286000.0
+2026-07-25,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-07-25,Cerveza,Cerveza Poker,1,4000.0
+2026-07-25,Cerveza,Cerveza Águila,2,9000.0
+2026-07-25,Desayuno,Desayuno Especial,4,56000.0
+2026-07-25,Desayuno,Desayuno Sencillo,3,18000.0
+2026-07-25,Desayuno,Desayuno Tradicional,6,72000.0
+2026-07-25,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-07-25,Gaseosa,Gaseosa Personal,17,59500.0
+2026-07-26,Acompañante,Ensalada de la Casa,1,4000.0
+2026-07-26,Acompañante,Huevo Adicional,1,2000.0
+2026-07-26,Acompañante,Papas Fritas,5,25000.0
+2026-07-26,Acompañante,Patacones,7,35000.0
+2026-07-26,Acompañante,Porción de Arroz,3,9000.0
+2026-07-26,Almuerzo,Almuerzo Corriente,26,156000.0
+2026-07-26,Almuerzo,Almuerzo Ejecutivo,33,429000.0
+2026-07-26,Almuerzo,Almuerzo Tradicional,27,297000.0
+2026-07-26,Cerveza,Cerveza Águila,3,13500.0
+2026-07-26,Desayuno,Desayuno Especial,1,14000.0
+2026-07-26,Desayuno,Desayuno Sencillo,7,42000.0
+2026-07-26,Desayuno,Desayuno Tradicional,7,84000.0
+2026-07-26,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-07-26,Gaseosa,Gaseosa Personal,25,87500.0
+2026-07-27,Acompañante,Ensalada de la Casa,1,4000.0
+2026-07-27,Acompañante,Huevo Adicional,3,6000.0
+2026-07-27,Acompañante,Papas Fritas,4,20000.0
+2026-07-27,Acompañante,Patacones,1,5000.0
+2026-07-27,Acompañante,Porción de Arroz,2,6000.0
+2026-07-27,Almuerzo,Almuerzo Corriente,26,156000.0
+2026-07-27,Almuerzo,Almuerzo Ejecutivo,23,299000.0
+2026-07-27,Almuerzo,Almuerzo Tradicional,26,286000.0
+2026-07-27,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-07-27,Cerveza,Cerveza Águila,1,4500.0
+2026-07-27,Desayuno,Desayuno Especial,6,84000.0
+2026-07-27,Desayuno,Desayuno Sencillo,6,36000.0
+2026-07-27,Desayuno,Desayuno Tradicional,4,48000.0
+2026-07-27,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-07-27,Gaseosa,Gaseosa Personal,15,52500.0
+2026-07-28,Acompañante,Ensalada de la Casa,1,4000.0
+2026-07-28,Acompañante,Huevo Adicional,4,8000.0
+2026-07-28,Acompañante,Papas Fritas,3,15000.0
+2026-07-28,Acompañante,Patacones,4,20000.0
+2026-07-28,Acompañante,Porción de Arroz,7,21000.0
+2026-07-28,Almuerzo,Almuerzo Corriente,27,162000.0
+2026-07-28,Almuerzo,Almuerzo Ejecutivo,24,312000.0
+2026-07-28,Almuerzo,Almuerzo Tradicional,30,330000.0
+2026-07-28,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-07-28,Desayuno,Desayuno Especial,9,126000.0
+2026-07-28,Desayuno,Desayuno Sencillo,5,30000.0
+2026-07-28,Desayuno,Desayuno Tradicional,4,48000.0
+2026-07-28,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-07-28,Gaseosa,Gaseosa Personal,17,59500.0
+2026-07-29,Acompañante,Papas Fritas,1,5000.0
+2026-07-29,Acompañante,Porción de Arroz,4,12000.0
+2026-07-29,Almuerzo,Almuerzo Corriente,30,180000.0
+2026-07-29,Almuerzo,Almuerzo Ejecutivo,27,351000.0
+2026-07-29,Almuerzo,Almuerzo Tradicional,23,253000.0
+2026-07-29,Cerveza,Cerveza Águila,1,4500.0
+2026-07-29,Desayuno,Desayuno Especial,3,42000.0
+2026-07-29,Desayuno,Desayuno Sencillo,7,42000.0
+2026-07-29,Desayuno,Desayuno Tradicional,7,84000.0
+2026-07-29,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-07-29,Gaseosa,Gaseosa Personal,16,56000.0
+2026-07-30,Acompañante,Ensalada de la Casa,3,12000.0
+2026-07-30,Acompañante,Papas Fritas,3,15000.0
+2026-07-30,Acompañante,Patacones,4,20000.0
+2026-07-30,Acompañante,Porción de Arroz,4,12000.0
+2026-07-30,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-07-30,Almuerzo,Almuerzo Ejecutivo,33,429000.0
+2026-07-30,Almuerzo,Almuerzo Tradicional,23,253000.0
+2026-07-30,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-07-30,Cerveza,Cerveza Poker,2,8000.0
+2026-07-30,Desayuno,Desayuno Especial,3,42000.0
+2026-07-30,Desayuno,Desayuno Sencillo,8,48000.0
+2026-07-30,Desayuno,Desayuno Tradicional,4,48000.0
+2026-07-30,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-07-30,Gaseosa,Gaseosa Personal,18,63000.0
+2026-07-31,Acompañante,Ensalada de la Casa,2,8000.0
+2026-07-31,Acompañante,Huevo Adicional,1,2000.0
+2026-07-31,Acompañante,Papas Fritas,1,5000.0
+2026-07-31,Acompañante,Patacones,3,15000.0
+2026-07-31,Acompañante,Porción de Arroz,2,6000.0
+2026-07-31,Almuerzo,Almuerzo Corriente,25,150000.0
+2026-07-31,Almuerzo,Almuerzo Ejecutivo,32,416000.0
+2026-07-31,Almuerzo,Almuerzo Tradicional,26,286000.0
+2026-07-31,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-07-31,Cerveza,Cerveza Águila,1,4500.0
+2026-07-31,Desayuno,Desayuno Especial,8,112000.0
+2026-07-31,Desayuno,Desayuno Sencillo,5,30000.0
+2026-07-31,Desayuno,Desayuno Tradicional,4,48000.0
+2026-07-31,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-07-31,Gaseosa,Gaseosa Personal,12,42000.0
+2026-08-01,Acompañante,Ensalada de la Casa,1,4000.0
+2026-08-01,Acompañante,Papas Fritas,2,10000.0
+2026-08-01,Acompañante,Patacones,5,25000.0
+2026-08-01,Acompañante,Porción de Arroz,7,21000.0
+2026-08-01,Almuerzo,Almuerzo Corriente,26,156000.0
+2026-08-01,Almuerzo,Almuerzo Ejecutivo,21,273000.0
+2026-08-01,Almuerzo,Almuerzo Tradicional,34,374000.0
+2026-08-01,Cerveza,Cerveza Club Colombia,4,22000.0
+2026-08-01,Cerveza,Cerveza Águila,2,9000.0
+2026-08-01,Desayuno,Desayuno Especial,6,84000.0
+2026-08-01,Desayuno,Desayuno Sencillo,3,18000.0
+2026-08-01,Desayuno,Desayuno Tradicional,4,48000.0
+2026-08-01,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-08-01,Gaseosa,Gaseosa Personal,21,73500.0
+2026-08-02,Acompañante,Papas Fritas,1,5000.0
+2026-08-02,Acompañante,Patacones,6,30000.0
+2026-08-02,Acompañante,Porción de Arroz,7,21000.0
+2026-08-02,Almuerzo,Almuerzo Corriente,28,168000.0
+2026-08-02,Almuerzo,Almuerzo Ejecutivo,28,364000.0
+2026-08-02,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-08-02,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-08-02,Cerveza,Cerveza Águila,2,9000.0
+2026-08-02,Desayuno,Desayuno Especial,2,28000.0
+2026-08-02,Desayuno,Desayuno Sencillo,4,24000.0
+2026-08-02,Desayuno,Desayuno Tradicional,12,144000.0
+2026-08-02,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-08-02,Gaseosa,Gaseosa Personal,15,52500.0
+2026-08-03,Acompañante,Ensalada de la Casa,1,4000.0
+2026-08-03,Acompañante,Huevo Adicional,1,2000.0
+2026-08-03,Acompañante,Papas Fritas,6,30000.0
+2026-08-03,Acompañante,Patacones,3,15000.0
+2026-08-03,Almuerzo,Almuerzo Corriente,17,102000.0
+2026-08-03,Almuerzo,Almuerzo Ejecutivo,31,403000.0
+2026-08-03,Almuerzo,Almuerzo Tradicional,31,341000.0
+2026-08-03,Desayuno,Desayuno Especial,7,98000.0
+2026-08-03,Desayuno,Desayuno Sencillo,6,36000.0
+2026-08-03,Desayuno,Desayuno Tradicional,5,60000.0
+2026-08-03,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-08-03,Gaseosa,Gaseosa Personal,14,49000.0
+2026-08-04,Acompañante,Ensalada de la Casa,2,8000.0
+2026-08-04,Acompañante,Huevo Adicional,2,4000.0
+2026-08-04,Acompañante,Porción de Arroz,3,9000.0
+2026-08-04,Almuerzo,Almuerzo Corriente,23,138000.0
+2026-08-04,Almuerzo,Almuerzo Ejecutivo,29,377000.0
+2026-08-04,Almuerzo,Almuerzo Tradicional,28,308000.0
+2026-08-04,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-08-04,Cerveza,Cerveza Poker,1,4000.0
+2026-08-04,Cerveza,Cerveza Águila,2,9000.0
+2026-08-04,Desayuno,Desayuno Especial,6,84000.0
+2026-08-04,Desayuno,Desayuno Sencillo,7,42000.0
+2026-08-04,Desayuno,Desayuno Tradicional,2,24000.0
+2026-08-04,Gaseosa,Gaseosa 1.5 L,1,7000.0
+2026-08-04,Gaseosa,Gaseosa Personal,12,42000.0
+2026-08-05,Acompañante,Ensalada de la Casa,2,8000.0
+2026-08-05,Acompañante,Huevo Adicional,1,2000.0
+2026-08-05,Acompañante,Papas Fritas,2,10000.0
+2026-08-05,Acompañante,Patacones,1,5000.0
+2026-08-05,Acompañante,Porción de Arroz,2,6000.0
+2026-08-05,Almuerzo,Almuerzo Corriente,27,162000.0
+2026-08-05,Almuerzo,Almuerzo Ejecutivo,31,403000.0
+2026-08-05,Almuerzo,Almuerzo Tradicional,18,198000.0
+2026-08-05,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-08-05,Desayuno,Desayuno Especial,5,70000.0
+2026-08-05,Desayuno,Desayuno Sencillo,9,54000.0
+2026-08-05,Desayuno,Desayuno Tradicional,5,60000.0
+2026-08-05,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-08-05,Gaseosa,Gaseosa Personal,12,42000.0
+2026-08-06,Acompañante,Ensalada de la Casa,1,4000.0
+2026-08-06,Acompañante,Huevo Adicional,3,6000.0
+2026-08-06,Acompañante,Papas Fritas,1,5000.0
+2026-08-06,Acompañante,Patacones,1,5000.0
+2026-08-06,Acompañante,Porción de Arroz,3,9000.0
+2026-08-06,Almuerzo,Almuerzo Corriente,25,150000.0
+2026-08-06,Almuerzo,Almuerzo Ejecutivo,25,325000.0
+2026-08-06,Almuerzo,Almuerzo Tradicional,28,308000.0
+2026-08-06,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-08-06,Cerveza,Cerveza Águila,1,4500.0
+2026-08-06,Desayuno,Desayuno Especial,4,56000.0
+2026-08-06,Desayuno,Desayuno Sencillo,5,30000.0
+2026-08-06,Desayuno,Desayuno Tradicional,6,72000.0
+2026-08-06,Gaseosa,Gaseosa 1.5 L,1,7000.0
+2026-08-06,Gaseosa,Gaseosa Personal,13,45500.0
+2026-08-07,Acompañante,Ensalada de la Casa,2,8000.0
+2026-08-07,Acompañante,Huevo Adicional,2,4000.0
+2026-08-07,Acompañante,Papas Fritas,1,5000.0
+2026-08-07,Acompañante,Patacones,2,10000.0
+2026-08-07,Acompañante,Porción de Arroz,4,12000.0
+2026-08-07,Almuerzo,Almuerzo Corriente,26,156000.0
+2026-08-07,Almuerzo,Almuerzo Ejecutivo,35,455000.0
+2026-08-07,Almuerzo,Almuerzo Tradicional,24,264000.0
+2026-08-07,Cerveza,Cerveza Club Colombia,3,16500.0
+2026-08-07,Cerveza,Cerveza Águila,3,13500.0
+2026-08-07,Desayuno,Desayuno Especial,1,14000.0
+2026-08-07,Desayuno,Desayuno Sencillo,5,30000.0
+2026-08-07,Desayuno,Desayuno Tradicional,6,72000.0
+2026-08-07,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-08-07,Gaseosa,Gaseosa Personal,18,63000.0
+2026-08-08,Acompañante,Ensalada de la Casa,1,4000.0
+2026-08-08,Acompañante,Huevo Adicional,3,6000.0
+2026-08-08,Acompañante,Papas Fritas,3,15000.0
+2026-08-08,Acompañante,Patacones,1,5000.0
+2026-08-08,Acompañante,Porción de Arroz,7,21000.0
+2026-08-08,Almuerzo,Almuerzo Corriente,28,168000.0
+2026-08-08,Almuerzo,Almuerzo Ejecutivo,29,377000.0
+2026-08-08,Almuerzo,Almuerzo Tradicional,22,242000.0
+2026-08-08,Cerveza,Cerveza Águila,2,9000.0
+2026-08-08,Desayuno,Desayuno Especial,8,112000.0
+2026-08-08,Desayuno,Desayuno Sencillo,6,36000.0
+2026-08-08,Desayuno,Desayuno Tradicional,3,36000.0
+2026-08-08,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-08-08,Gaseosa,Gaseosa Personal,16,56000.0
+2026-08-09,Acompañante,Ensalada de la Casa,1,4000.0
+2026-08-09,Acompañante,Huevo Adicional,1,2000.0
+2026-08-09,Acompañante,Papas Fritas,1,5000.0
+2026-08-09,Acompañante,Porción de Arroz,1,3000.0
+2026-08-09,Almuerzo,Almuerzo Corriente,17,102000.0
+2026-08-09,Almuerzo,Almuerzo Ejecutivo,27,351000.0
+2026-08-09,Almuerzo,Almuerzo Tradicional,44,484000.0
+2026-08-09,Cerveza,Cerveza Águila,1,4500.0
+2026-08-09,Desayuno,Desayuno Especial,1,14000.0
+2026-08-09,Desayuno,Desayuno Sencillo,6,36000.0
+2026-08-09,Desayuno,Desayuno Tradicional,6,72000.0
+2026-08-09,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-08-09,Gaseosa,Gaseosa Personal,14,49000.0
+2026-08-10,Acompañante,Ensalada de la Casa,3,12000.0
+2026-08-10,Acompañante,Huevo Adicional,5,10000.0
+2026-08-10,Acompañante,Papas Fritas,2,10000.0
+2026-08-10,Acompañante,Patacones,3,15000.0
+2026-08-10,Acompañante,Porción de Arroz,1,3000.0
+2026-08-10,Almuerzo,Almuerzo Corriente,31,186000.0
+2026-08-10,Almuerzo,Almuerzo Ejecutivo,28,364000.0
+2026-08-10,Almuerzo,Almuerzo Tradicional,31,341000.0
+2026-08-10,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-08-10,Cerveza,Cerveza Poker,1,4000.0
+2026-08-10,Cerveza,Cerveza Águila,3,13500.0
+2026-08-10,Desayuno,Desayuno Especial,3,42000.0
+2026-08-10,Desayuno,Desayuno Sencillo,5,30000.0
+2026-08-10,Desayuno,Desayuno Tradicional,2,24000.0
+2026-08-10,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-08-10,Gaseosa,Gaseosa Personal,13,45500.0
+2026-08-11,Acompañante,Ensalada de la Casa,1,4000.0
+2026-08-11,Acompañante,Huevo Adicional,3,6000.0
+2026-08-11,Acompañante,Patacones,3,15000.0
+2026-08-11,Acompañante,Porción de Arroz,5,15000.0
+2026-08-11,Almuerzo,Almuerzo Corriente,33,198000.0
+2026-08-11,Almuerzo,Almuerzo Ejecutivo,22,286000.0
+2026-08-11,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-08-11,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-08-11,Cerveza,Cerveza Águila,1,4500.0
+2026-08-11,Desayuno,Desayuno Especial,6,84000.0
+2026-08-11,Desayuno,Desayuno Sencillo,4,24000.0
+2026-08-11,Desayuno,Desayuno Tradicional,5,60000.0
+2026-08-11,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-08-11,Gaseosa,Gaseosa Personal,12,42000.0
+2026-08-12,Acompañante,Huevo Adicional,1,2000.0
+2026-08-12,Acompañante,Papas Fritas,6,30000.0
+2026-08-12,Acompañante,Patacones,1,5000.0
+2026-08-12,Acompañante,Porción de Arroz,2,6000.0
+2026-08-12,Almuerzo,Almuerzo Corriente,31,186000.0
+2026-08-12,Almuerzo,Almuerzo Ejecutivo,21,273000.0
+2026-08-12,Almuerzo,Almuerzo Tradicional,30,330000.0
+2026-08-12,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-08-12,Cerveza,Cerveza Águila,2,9000.0
+2026-08-12,Desayuno,Desayuno Especial,5,70000.0
+2026-08-12,Desayuno,Desayuno Sencillo,7,42000.0
+2026-08-12,Desayuno,Desayuno Tradicional,3,36000.0
+2026-08-12,Gaseosa,Gaseosa 1.5 L,8,56000.0
+2026-08-12,Gaseosa,Gaseosa Personal,12,42000.0
+2026-08-13,Acompañante,Ensalada de la Casa,2,8000.0
+2026-08-13,Acompañante,Papas Fritas,2,10000.0
+2026-08-13,Acompañante,Patacones,1,5000.0
+2026-08-13,Acompañante,Porción de Arroz,1,3000.0
+2026-08-13,Almuerzo,Almuerzo Corriente,27,162000.0
+2026-08-13,Almuerzo,Almuerzo Ejecutivo,28,364000.0
+2026-08-13,Almuerzo,Almuerzo Tradicional,24,264000.0
+2026-08-13,Cerveza,Cerveza Club Colombia,3,16500.0
+2026-08-13,Cerveza,Cerveza Águila,2,9000.0
+2026-08-13,Desayuno,Desayuno Especial,9,126000.0
+2026-08-13,Desayuno,Desayuno Sencillo,4,24000.0
+2026-08-13,Desayuno,Desayuno Tradicional,6,72000.0
+2026-08-13,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-08-13,Gaseosa,Gaseosa Personal,14,49000.0
+2026-08-14,Acompañante,Ensalada de la Casa,2,8000.0
+2026-08-14,Acompañante,Huevo Adicional,1,2000.0
+2026-08-14,Acompañante,Papas Fritas,4,20000.0
+2026-08-14,Acompañante,Patacones,3,15000.0
+2026-08-14,Acompañante,Porción de Arroz,1,3000.0
+2026-08-14,Almuerzo,Almuerzo Corriente,25,150000.0
+2026-08-14,Almuerzo,Almuerzo Ejecutivo,25,325000.0
+2026-08-14,Almuerzo,Almuerzo Tradicional,34,374000.0
+2026-08-14,Cerveza,Cerveza Poker,2,8000.0
+2026-08-14,Desayuno,Desayuno Especial,2,28000.0
+2026-08-14,Desayuno,Desayuno Sencillo,4,24000.0
+2026-08-14,Desayuno,Desayuno Tradicional,6,72000.0
+2026-08-14,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-08-14,Gaseosa,Gaseosa Personal,12,42000.0
+2026-08-15,Acompañante,Huevo Adicional,2,4000.0
+2026-08-15,Acompañante,Papas Fritas,3,15000.0
+2026-08-15,Acompañante,Patacones,1,5000.0
+2026-08-15,Acompañante,Porción de Arroz,2,6000.0
+2026-08-15,Almuerzo,Almuerzo Corriente,23,138000.0
+2026-08-15,Almuerzo,Almuerzo Ejecutivo,34,442000.0
+2026-08-15,Almuerzo,Almuerzo Tradicional,21,231000.0
+2026-08-15,Cerveza,Cerveza Club Colombia,3,16500.0
+2026-08-15,Cerveza,Cerveza Poker,1,4000.0
+2026-08-15,Desayuno,Desayuno Especial,6,84000.0
+2026-08-15,Desayuno,Desayuno Sencillo,7,42000.0
+2026-08-15,Desayuno,Desayuno Tradicional,2,24000.0
+2026-08-15,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-08-15,Gaseosa,Gaseosa Personal,14,49000.0
+2026-08-16,Acompañante,Ensalada de la Casa,2,8000.0
+2026-08-16,Acompañante,Huevo Adicional,4,8000.0
+2026-08-16,Acompañante,Patacones,7,35000.0
+2026-08-16,Acompañante,Porción de Arroz,2,6000.0
+2026-08-16,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-08-16,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-08-16,Almuerzo,Almuerzo Tradicional,26,286000.0
+2026-08-16,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-08-16,Cerveza,Cerveza Águila,1,4500.0
+2026-08-16,Desayuno,Desayuno Especial,5,70000.0
+2026-08-16,Desayuno,Desayuno Sencillo,8,48000.0
+2026-08-16,Desayuno,Desayuno Tradicional,3,36000.0
+2026-08-16,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-08-16,Gaseosa,Gaseosa Personal,16,56000.0
+2026-08-17,Acompañante,Ensalada de la Casa,2,8000.0
+2026-08-17,Acompañante,Huevo Adicional,2,4000.0
+2026-08-17,Acompañante,Papas Fritas,4,20000.0
+2026-08-17,Acompañante,Patacones,1,5000.0
+2026-08-17,Acompañante,Porción de Arroz,2,6000.0
+2026-08-17,Almuerzo,Almuerzo Corriente,26,156000.0
+2026-08-17,Almuerzo,Almuerzo Ejecutivo,29,377000.0
+2026-08-17,Almuerzo,Almuerzo Tradicional,24,264000.0
+2026-08-17,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-08-17,Cerveza,Cerveza Águila,2,9000.0
+2026-08-17,Desayuno,Desayuno Especial,7,98000.0
+2026-08-17,Desayuno,Desayuno Sencillo,5,30000.0
+2026-08-17,Desayuno,Desayuno Tradicional,7,84000.0
+2026-08-17,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-08-17,Gaseosa,Gaseosa Personal,12,42000.0
+2026-08-18,Acompañante,Ensalada de la Casa,3,12000.0
+2026-08-18,Acompañante,Huevo Adicional,1,2000.0
+2026-08-18,Acompañante,Papas Fritas,2,10000.0
+2026-08-18,Acompañante,Patacones,5,25000.0
+2026-08-18,Acompañante,Porción de Arroz,2,6000.0
+2026-08-18,Almuerzo,Almuerzo Corriente,24,144000.0
+2026-08-18,Almuerzo,Almuerzo Ejecutivo,29,377000.0
+2026-08-18,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-08-18,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-08-18,Cerveza,Cerveza Poker,1,4000.0
+2026-08-18,Desayuno,Desayuno Especial,4,56000.0
+2026-08-18,Desayuno,Desayuno Sencillo,7,42000.0
+2026-08-18,Desayuno,Desayuno Tradicional,6,72000.0
+2026-08-18,Gaseosa,Gaseosa 1.5 L,1,7000.0
+2026-08-18,Gaseosa,Gaseosa Personal,11,38500.0
+2026-08-19,Acompañante,Patacones,2,10000.0
+2026-08-19,Acompañante,Porción de Arroz,3,9000.0
+2026-08-19,Almuerzo,Almuerzo Corriente,34,204000.0
+2026-08-19,Almuerzo,Almuerzo Ejecutivo,24,312000.0
+2026-08-19,Almuerzo,Almuerzo Tradicional,30,330000.0
+2026-08-19,Cerveza,Cerveza Águila,3,13500.0
+2026-08-19,Desayuno,Desayuno Especial,4,56000.0
+2026-08-19,Desayuno,Desayuno Sencillo,2,12000.0
+2026-08-19,Desayuno,Desayuno Tradicional,6,72000.0
+2026-08-19,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-08-19,Gaseosa,Gaseosa Personal,10,35000.0
+2026-08-20,Acompañante,Ensalada de la Casa,3,12000.0
+2026-08-20,Acompañante,Huevo Adicional,2,4000.0
+2026-08-20,Acompañante,Patacones,1,5000.0
+2026-08-20,Acompañante,Porción de Arroz,1,3000.0
+2026-08-20,Almuerzo,Almuerzo Corriente,21,126000.0
+2026-08-20,Almuerzo,Almuerzo Ejecutivo,26,338000.0
+2026-08-20,Almuerzo,Almuerzo Tradicional,27,297000.0
+2026-08-20,Cerveza,Cerveza Poker,2,8000.0
+2026-08-20,Desayuno,Desayuno Especial,12,168000.0
+2026-08-20,Desayuno,Desayuno Sencillo,3,18000.0
+2026-08-20,Desayuno,Desayuno Tradicional,6,72000.0
+2026-08-20,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-08-20,Gaseosa,Gaseosa Personal,3,10500.0
+2026-08-21,Acompañante,Ensalada de la Casa,5,20000.0
+2026-08-21,Acompañante,Huevo Adicional,1,2000.0
+2026-08-21,Acompañante,Papas Fritas,1,5000.0
+2026-08-21,Acompañante,Porción de Arroz,3,9000.0
+2026-08-21,Almuerzo,Almuerzo Corriente,21,126000.0
+2026-08-21,Almuerzo,Almuerzo Ejecutivo,30,390000.0
+2026-08-21,Almuerzo,Almuerzo Tradicional,36,396000.0
+2026-08-21,Cerveza,Cerveza Poker,2,8000.0
+2026-08-21,Cerveza,Cerveza Águila,1,4500.0
+2026-08-21,Desayuno,Desayuno Especial,7,98000.0
+2026-08-21,Desayuno,Desayuno Sencillo,1,6000.0
+2026-08-21,Desayuno,Desayuno Tradicional,4,48000.0
+2026-08-21,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-08-21,Gaseosa,Gaseosa Personal,9,31500.0
+2026-08-22,Acompañante,Papas Fritas,3,15000.0
+2026-08-22,Acompañante,Patacones,2,10000.0
+2026-08-22,Acompañante,Porción de Arroz,3,9000.0
+2026-08-22,Almuerzo,Almuerzo Corriente,19,114000.0
+2026-08-22,Almuerzo,Almuerzo Ejecutivo,33,429000.0
+2026-08-22,Almuerzo,Almuerzo Tradicional,26,286000.0
+2026-08-22,Cerveza,Cerveza Águila,2,9000.0
+2026-08-22,Desayuno,Desayuno Especial,5,70000.0
+2026-08-22,Desayuno,Desayuno Sencillo,7,42000.0
+2026-08-22,Desayuno,Desayuno Tradicional,9,108000.0
+2026-08-22,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-08-22,Gaseosa,Gaseosa Personal,14,49000.0
+2026-08-23,Acompañante,Ensalada de la Casa,1,4000.0
+2026-08-23,Acompañante,Papas Fritas,1,5000.0
+2026-08-23,Acompañante,Patacones,3,15000.0
+2026-08-23,Acompañante,Porción de Arroz,3,9000.0
+2026-08-23,Almuerzo,Almuerzo Corriente,25,150000.0
+2026-08-23,Almuerzo,Almuerzo Ejecutivo,29,377000.0
+2026-08-23,Almuerzo,Almuerzo Tradicional,26,286000.0
+2026-08-23,Desayuno,Desayuno Especial,7,98000.0
+2026-08-23,Desayuno,Desayuno Sencillo,7,42000.0
+2026-08-23,Desayuno,Desayuno Tradicional,5,60000.0
+2026-08-23,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-08-23,Gaseosa,Gaseosa Personal,19,66500.0
+2026-08-24,Acompañante,Huevo Adicional,2,4000.0
+2026-08-24,Acompañante,Papas Fritas,2,10000.0
+2026-08-24,Acompañante,Patacones,3,15000.0
+2026-08-24,Acompañante,Porción de Arroz,4,12000.0
+2026-08-24,Almuerzo,Almuerzo Corriente,23,138000.0
+2026-08-24,Almuerzo,Almuerzo Ejecutivo,36,468000.0
+2026-08-24,Almuerzo,Almuerzo Tradicional,27,297000.0
+2026-08-24,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-08-24,Cerveza,Cerveza Poker,1,4000.0
+2026-08-24,Cerveza,Cerveza Águila,3,13500.0
+2026-08-24,Desayuno,Desayuno Especial,3,42000.0
+2026-08-24,Desayuno,Desayuno Sencillo,5,30000.0
+2026-08-24,Desayuno,Desayuno Tradicional,7,84000.0
+2026-08-24,Gaseosa,Gaseosa 1.5 L,6,42000.0
+2026-08-24,Gaseosa,Gaseosa Personal,18,63000.0
+2026-08-25,Acompañante,Ensalada de la Casa,2,8000.0
+2026-08-25,Acompañante,Huevo Adicional,3,6000.0
+2026-08-25,Acompañante,Patacones,2,10000.0
+2026-08-25,Acompañante,Porción de Arroz,1,3000.0
+2026-08-25,Almuerzo,Almuerzo Corriente,21,126000.0
+2026-08-25,Almuerzo,Almuerzo Ejecutivo,27,351000.0
+2026-08-25,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-08-25,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-08-25,Desayuno,Desayuno Especial,3,42000.0
+2026-08-25,Desayuno,Desayuno Sencillo,5,30000.0
+2026-08-25,Desayuno,Desayuno Tradicional,6,72000.0
+2026-08-25,Gaseosa,Gaseosa 1.5 L,7,49000.0
+2026-08-25,Gaseosa,Gaseosa Personal,7,24500.0
+2026-08-26,Acompañante,Huevo Adicional,2,4000.0
+2026-08-26,Acompañante,Papas Fritas,5,25000.0
+2026-08-26,Acompañante,Patacones,2,10000.0
+2026-08-26,Acompañante,Porción de Arroz,4,12000.0
+2026-08-26,Almuerzo,Almuerzo Corriente,22,132000.0
+2026-08-26,Almuerzo,Almuerzo Ejecutivo,31,403000.0
+2026-08-26,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-08-26,Desayuno,Desayuno Especial,6,84000.0
+2026-08-26,Desayuno,Desayuno Sencillo,7,42000.0
+2026-08-26,Desayuno,Desayuno Tradicional,3,36000.0
+2026-08-26,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-08-26,Gaseosa,Gaseosa Personal,15,52500.0
+2026-08-27,Acompañante,Huevo Adicional,1,2000.0
+2026-08-27,Acompañante,Papas Fritas,4,20000.0
+2026-08-27,Acompañante,Patacones,1,5000.0
+2026-08-27,Acompañante,Porción de Arroz,2,6000.0
+2026-08-27,Almuerzo,Almuerzo Corriente,32,192000.0
+2026-08-27,Almuerzo,Almuerzo Ejecutivo,21,273000.0
+2026-08-27,Almuerzo,Almuerzo Tradicional,30,330000.0
+2026-08-27,Desayuno,Desayuno Especial,4,56000.0
+2026-08-27,Desayuno,Desayuno Sencillo,2,12000.0
+2026-08-27,Desayuno,Desayuno Tradicional,6,72000.0
+2026-08-27,Gaseosa,Gaseosa 1.5 L,6,42000.0
+2026-08-27,Gaseosa,Gaseosa Personal,12,42000.0
+2026-08-28,Acompañante,Ensalada de la Casa,2,8000.0
+2026-08-28,Acompañante,Huevo Adicional,2,4000.0
+2026-08-28,Acompañante,Papas Fritas,2,10000.0
+2026-08-28,Acompañante,Patacones,3,15000.0
+2026-08-28,Acompañante,Porción de Arroz,2,6000.0
+2026-08-28,Almuerzo,Almuerzo Corriente,22,132000.0
+2026-08-28,Almuerzo,Almuerzo Ejecutivo,35,455000.0
+2026-08-28,Almuerzo,Almuerzo Tradicional,28,308000.0
+2026-08-28,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-08-28,Desayuno,Desayuno Especial,2,28000.0
+2026-08-28,Desayuno,Desayuno Sencillo,5,30000.0
+2026-08-28,Desayuno,Desayuno Tradicional,8,96000.0
+2026-08-28,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-08-28,Gaseosa,Gaseosa Personal,10,35000.0
+2026-08-29,Acompañante,Huevo Adicional,1,2000.0
+2026-08-29,Acompañante,Papas Fritas,1,5000.0
+2026-08-29,Acompañante,Patacones,3,15000.0
+2026-08-29,Acompañante,Porción de Arroz,2,6000.0
+2026-08-29,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-08-29,Almuerzo,Almuerzo Ejecutivo,29,377000.0
+2026-08-29,Almuerzo,Almuerzo Tradicional,24,264000.0
+2026-08-29,Cerveza,Cerveza Águila,2,9000.0
+2026-08-29,Desayuno,Desayuno Especial,7,98000.0
+2026-08-29,Desayuno,Desayuno Sencillo,3,18000.0
+2026-08-29,Desayuno,Desayuno Tradicional,7,84000.0
+2026-08-29,Gaseosa,Gaseosa 1.5 L,2,14000.0
+2026-08-29,Gaseosa,Gaseosa Personal,10,35000.0
+2026-08-30,Acompañante,Ensalada de la Casa,1,4000.0
+2026-08-30,Acompañante,Huevo Adicional,3,6000.0
+2026-08-30,Acompañante,Patacones,1,5000.0
+2026-08-30,Acompañante,Porción de Arroz,5,15000.0
+2026-08-30,Almuerzo,Almuerzo Corriente,28,168000.0
+2026-08-30,Almuerzo,Almuerzo Ejecutivo,31,403000.0
+2026-08-30,Almuerzo,Almuerzo Tradicional,25,275000.0
+2026-08-30,Cerveza,Cerveza Águila,2,9000.0
+2026-08-30,Desayuno,Desayuno Especial,5,70000.0
+2026-08-30,Desayuno,Desayuno Sencillo,8,48000.0
+2026-08-30,Desayuno,Desayuno Tradicional,4,48000.0
+2026-08-30,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-08-30,Gaseosa,Gaseosa Personal,14,49000.0
+2026-08-31,Acompañante,Ensalada de la Casa,2,8000.0
+2026-08-31,Acompañante,Papas Fritas,6,30000.0
+2026-08-31,Acompañante,Patacones,1,5000.0
+2026-08-31,Acompañante,Porción de Arroz,2,6000.0
+2026-08-31,Almuerzo,Almuerzo Corriente,23,138000.0
+2026-08-31,Almuerzo,Almuerzo Ejecutivo,29,377000.0
+2026-08-31,Almuerzo,Almuerzo Tradicional,28,308000.0
+2026-08-31,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-08-31,Desayuno,Desayuno Especial,3,42000.0
+2026-08-31,Desayuno,Desayuno Sencillo,9,54000.0
+2026-08-31,Desayuno,Desayuno Tradicional,6,72000.0
+2026-08-31,Gaseosa,Gaseosa 1.5 L,6,42000.0
+2026-08-31,Gaseosa,Gaseosa Personal,12,42000.0
+2026-09-01,Acompañante,Ensalada de la Casa,1,4000.0
+2026-09-01,Acompañante,Huevo Adicional,1,2000.0
+2026-09-01,Acompañante,Porción de Arroz,2,6000.0
+2026-09-01,Almuerzo,Almuerzo Corriente,21,126000.0
+2026-09-01,Almuerzo,Almuerzo Ejecutivo,34,442000.0
+2026-09-01,Almuerzo,Almuerzo Tradicional,28,308000.0
+2026-09-01,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-09-01,Cerveza,Cerveza Águila,6,27000.0
+2026-09-01,Desayuno,Desayuno Especial,6,84000.0
+2026-09-01,Desayuno,Desayuno Sencillo,5,30000.0
+2026-09-01,Desayuno,Desayuno Tradicional,2,24000.0
+2026-09-01,Gaseosa,Gaseosa 1.5 L,1,7000.0
+2026-09-01,Gaseosa,Gaseosa Personal,11,38500.0
+2026-09-02,Acompañante,Papas Fritas,1,5000.0
+2026-09-02,Acompañante,Patacones,3,15000.0
+2026-09-02,Acompañante,Porción de Arroz,4,12000.0
+2026-09-02,Almuerzo,Almuerzo Corriente,20,120000.0
+2026-09-02,Almuerzo,Almuerzo Ejecutivo,36,468000.0
+2026-09-02,Almuerzo,Almuerzo Tradicional,30,330000.0
+2026-09-02,Cerveza,Cerveza Club Colombia,5,27500.0
+2026-09-02,Cerveza,Cerveza Poker,1,4000.0
+2026-09-02,Cerveza,Cerveza Águila,1,4500.0
+2026-09-02,Desayuno,Desayuno Especial,4,56000.0
+2026-09-02,Desayuno,Desayuno Sencillo,5,30000.0
+2026-09-02,Desayuno,Desayuno Tradicional,6,72000.0
+2026-09-02,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-09-02,Gaseosa,Gaseosa Personal,8,28000.0
+2026-09-03,Acompañante,Ensalada de la Casa,1,4000.0
+2026-09-03,Acompañante,Papas Fritas,3,15000.0
+2026-09-03,Acompañante,Patacones,3,15000.0
+2026-09-03,Acompañante,Porción de Arroz,5,15000.0
+2026-09-03,Almuerzo,Almuerzo Corriente,29,174000.0
+2026-09-03,Almuerzo,Almuerzo Ejecutivo,28,364000.0
+2026-09-03,Almuerzo,Almuerzo Tradicional,32,352000.0
+2026-09-03,Cerveza,Cerveza Águila,1,4500.0
+2026-09-03,Desayuno,Desayuno Especial,5,70000.0
+2026-09-03,Desayuno,Desayuno Sencillo,7,42000.0
+2026-09-03,Desayuno,Desayuno Tradicional,3,36000.0
+2026-09-03,Gaseosa,Gaseosa 1.5 L,3,21000.0
+2026-09-03,Gaseosa,Gaseosa Personal,21,73500.0
+2026-09-04,Acompañante,Ensalada de la Casa,3,12000.0
+2026-09-04,Acompañante,Huevo Adicional,3,6000.0
+2026-09-04,Acompañante,Papas Fritas,1,5000.0
+2026-09-04,Acompañante,Porción de Arroz,5,15000.0
+2026-09-04,Almuerzo,Almuerzo Corriente,28,168000.0
+2026-09-04,Almuerzo,Almuerzo Ejecutivo,29,377000.0
+2026-09-04,Almuerzo,Almuerzo Tradicional,32,352000.0
+2026-09-04,Desayuno,Desayuno Especial,3,42000.0
+2026-09-04,Desayuno,Desayuno Sencillo,4,24000.0
+2026-09-04,Desayuno,Desayuno Tradicional,6,72000.0
+2026-09-04,Gaseosa,Gaseosa Personal,17,59500.0
+2026-09-05,Acompañante,Ensalada de la Casa,1,4000.0
+2026-09-05,Acompañante,Huevo Adicional,1,2000.0
+2026-09-05,Acompañante,Papas Fritas,5,25000.0
+2026-09-05,Acompañante,Patacones,1,5000.0
+2026-09-05,Acompañante,Porción de Arroz,5,15000.0
+2026-09-05,Almuerzo,Almuerzo Corriente,28,168000.0
+2026-09-05,Almuerzo,Almuerzo Ejecutivo,37,481000.0
+2026-09-05,Almuerzo,Almuerzo Tradicional,24,264000.0
+2026-09-05,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-09-05,Cerveza,Cerveza Poker,1,4000.0
+2026-09-05,Cerveza,Cerveza Águila,1,4500.0
+2026-09-05,Desayuno,Desayuno Especial,1,14000.0
+2026-09-05,Desayuno,Desayuno Sencillo,7,42000.0
+2026-09-05,Desayuno,Desayuno Tradicional,3,36000.0
+2026-09-05,Gaseosa,Gaseosa 1.5 L,8,56000.0
+2026-09-05,Gaseosa,Gaseosa Personal,9,31500.0
+2026-09-06,Acompañante,Papas Fritas,2,10000.0
+2026-09-06,Acompañante,Patacones,3,15000.0
+2026-09-06,Acompañante,Porción de Arroz,3,9000.0
+2026-09-06,Almuerzo,Almuerzo Corriente,27,162000.0
+2026-09-06,Almuerzo,Almuerzo Ejecutivo,33,429000.0
+2026-09-06,Almuerzo,Almuerzo Tradicional,27,297000.0
+2026-09-06,Cerveza,Cerveza Águila,1,4500.0
+2026-09-06,Desayuno,Desayuno Especial,5,70000.0
+2026-09-06,Desayuno,Desayuno Sencillo,3,18000.0
+2026-09-06,Desayuno,Desayuno Tradicional,5,60000.0
+2026-09-06,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-09-06,Gaseosa,Gaseosa Personal,8,28000.0
+2026-09-07,Acompañante,Ensalada de la Casa,2,8000.0
+2026-09-07,Acompañante,Huevo Adicional,3,6000.0
+2026-09-07,Acompañante,Papas Fritas,1,5000.0
+2026-09-07,Acompañante,Patacones,2,10000.0
+2026-09-07,Acompañante,Porción de Arroz,5,15000.0
+2026-09-07,Almuerzo,Almuerzo Corriente,35,210000.0
+2026-09-07,Almuerzo,Almuerzo Ejecutivo,20,260000.0
+2026-09-07,Almuerzo,Almuerzo Tradicional,27,297000.0
+2026-09-07,Cerveza,Cerveza Poker,2,8000.0
+2026-09-07,Cerveza,Cerveza Águila,1,4500.0
+2026-09-07,Desayuno,Desayuno Especial,4,56000.0
+2026-09-07,Desayuno,Desayuno Sencillo,5,30000.0
+2026-09-07,Desayuno,Desayuno Tradicional,6,72000.0
+2026-09-07,Gaseosa,Gaseosa 1.5 L,7,49000.0
+2026-09-07,Gaseosa,Gaseosa Personal,17,59500.0
+2026-09-08,Acompañante,Papas Fritas,3,15000.0
+2026-09-08,Acompañante,Patacones,4,20000.0
+2026-09-08,Acompañante,Porción de Arroz,3,9000.0
+2026-09-08,Almuerzo,Almuerzo Corriente,25,150000.0
+2026-09-08,Almuerzo,Almuerzo Ejecutivo,28,364000.0
+2026-09-08,Almuerzo,Almuerzo Tradicional,25,275000.0
+2026-09-08,Cerveza,Cerveza Águila,1,4500.0
+2026-09-08,Desayuno,Desayuno Especial,9,126000.0
+2026-09-08,Desayuno,Desayuno Sencillo,5,30000.0
+2026-09-08,Desayuno,Desayuno Tradicional,8,96000.0
+2026-09-08,Gaseosa,Gaseosa 1.5 L,8,56000.0
+2026-09-08,Gaseosa,Gaseosa Personal,12,42000.0
+2026-09-09,Acompañante,Ensalada de la Casa,2,8000.0
+2026-09-09,Acompañante,Huevo Adicional,3,6000.0
+2026-09-09,Acompañante,Papas Fritas,3,15000.0
+2026-09-09,Acompañante,Patacones,1,5000.0
+2026-09-09,Acompañante,Porción de Arroz,7,21000.0
+2026-09-09,Almuerzo,Almuerzo Corriente,37,222000.0
+2026-09-09,Almuerzo,Almuerzo Ejecutivo,25,325000.0
+2026-09-09,Almuerzo,Almuerzo Tradicional,25,275000.0
+2026-09-09,Cerveza,Cerveza Club Colombia,2,11000.0
+2026-09-09,Cerveza,Cerveza Poker,2,8000.0
+2026-09-09,Desayuno,Desayuno Especial,4,56000.0
+2026-09-09,Desayuno,Desayuno Sencillo,6,36000.0
+2026-09-09,Desayuno,Desayuno Tradicional,3,36000.0
+2026-09-09,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-09-09,Gaseosa,Gaseosa Personal,10,35000.0
+2026-09-10,Acompañante,Huevo Adicional,1,2000.0
+2026-09-10,Acompañante,Papas Fritas,1,5000.0
+2026-09-10,Acompañante,Patacones,3,15000.0
+2026-09-10,Acompañante,Porción de Arroz,3,9000.0
+2026-09-10,Almuerzo,Almuerzo Corriente,23,138000.0
+2026-09-10,Almuerzo,Almuerzo Ejecutivo,31,403000.0
+2026-09-10,Almuerzo,Almuerzo Tradicional,33,363000.0
+2026-09-10,Cerveza,Cerveza Poker,1,4000.0
+2026-09-10,Desayuno,Desayuno Especial,4,56000.0
+2026-09-10,Desayuno,Desayuno Sencillo,5,30000.0
+2026-09-10,Desayuno,Desayuno Tradicional,5,60000.0
+2026-09-10,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-09-10,Gaseosa,Gaseosa Personal,21,73500.0
+2026-09-11,Acompañante,Ensalada de la Casa,1,4000.0
+2026-09-11,Acompañante,Huevo Adicional,2,4000.0
+2026-09-11,Acompañante,Papas Fritas,1,5000.0
+2026-09-11,Acompañante,Porción de Arroz,6,18000.0
+2026-09-11,Almuerzo,Almuerzo Corriente,28,168000.0
+2026-09-11,Almuerzo,Almuerzo Ejecutivo,30,390000.0
+2026-09-11,Almuerzo,Almuerzo Tradicional,24,264000.0
+2026-09-11,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-09-11,Cerveza,Cerveza Águila,1,4500.0
+2026-09-11,Desayuno,Desayuno Especial,3,42000.0
+2026-09-11,Desayuno,Desayuno Sencillo,8,48000.0
+2026-09-11,Desayuno,Desayuno Tradicional,6,72000.0
+2026-09-11,Gaseosa,Gaseosa 1.5 L,6,42000.0
+2026-09-11,Gaseosa,Gaseosa Personal,7,24500.0
+2026-09-12,Acompañante,Huevo Adicional,4,8000.0
+2026-09-12,Acompañante,Patacones,3,15000.0
+2026-09-12,Acompañante,Porción de Arroz,6,18000.0
+2026-09-12,Almuerzo,Almuerzo Corriente,28,168000.0
+2026-09-12,Almuerzo,Almuerzo Ejecutivo,29,377000.0
+2026-09-12,Almuerzo,Almuerzo Tradicional,31,341000.0
+2026-09-12,Cerveza,Cerveza Águila,1,4500.0
+2026-09-12,Desayuno,Desayuno Especial,3,42000.0
+2026-09-12,Desayuno,Desayuno Sencillo,5,30000.0
+2026-09-12,Desayuno,Desayuno Tradicional,5,60000.0
+2026-09-12,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-09-12,Gaseosa,Gaseosa Personal,9,31500.0
+2026-09-13,Acompañante,Ensalada de la Casa,1,4000.0
+2026-09-13,Acompañante,Huevo Adicional,3,6000.0
+2026-09-13,Acompañante,Papas Fritas,3,15000.0
+2026-09-13,Acompañante,Patacones,1,5000.0
+2026-09-13,Acompañante,Porción de Arroz,3,9000.0
+2026-09-13,Almuerzo,Almuerzo Corriente,22,132000.0
+2026-09-13,Almuerzo,Almuerzo Ejecutivo,37,481000.0
+2026-09-13,Almuerzo,Almuerzo Tradicional,21,231000.0
+2026-09-13,Cerveza,Cerveza Club Colombia,3,16500.0
+2026-09-13,Cerveza,Cerveza Poker,1,4000.0
+2026-09-13,Cerveza,Cerveza Águila,2,9000.0
+2026-09-13,Desayuno,Desayuno Especial,4,56000.0
+2026-09-13,Desayuno,Desayuno Sencillo,7,42000.0
+2026-09-13,Desayuno,Desayuno Tradicional,6,72000.0
+2026-09-13,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-09-13,Gaseosa,Gaseosa Personal,16,56000.0
+2026-09-14,Acompañante,Ensalada de la Casa,1,4000.0
+2026-09-14,Acompañante,Papas Fritas,8,40000.0
+2026-09-14,Acompañante,Patacones,1,5000.0
+2026-09-14,Acompañante,Porción de Arroz,4,12000.0
+2026-09-14,Almuerzo,Almuerzo Corriente,30,180000.0
+2026-09-14,Almuerzo,Almuerzo Ejecutivo,34,442000.0
+2026-09-14,Almuerzo,Almuerzo Tradicional,22,242000.0
+2026-09-14,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-09-14,Cerveza,Cerveza Poker,2,8000.0
+2026-09-14,Cerveza,Cerveza Águila,2,9000.0
+2026-09-14,Desayuno,Desayuno Especial,3,42000.0
+2026-09-14,Desayuno,Desayuno Sencillo,7,42000.0
+2026-09-14,Desayuno,Desayuno Tradicional,6,72000.0
+2026-09-14,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-09-14,Gaseosa,Gaseosa Personal,18,63000.0
+2026-09-15,Acompañante,Ensalada de la Casa,5,20000.0
+2026-09-15,Acompañante,Patacones,1,5000.0
+2026-09-15,Acompañante,Porción de Arroz,4,12000.0
+2026-09-15,Almuerzo,Almuerzo Corriente,27,162000.0
+2026-09-15,Almuerzo,Almuerzo Ejecutivo,30,390000.0
+2026-09-15,Almuerzo,Almuerzo Tradicional,21,231000.0
+2026-09-15,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-09-15,Cerveza,Cerveza Águila,1,4500.0
+2026-09-15,Desayuno,Desayuno Especial,4,56000.0
+2026-09-15,Desayuno,Desayuno Sencillo,4,24000.0
+2026-09-15,Desayuno,Desayuno Tradicional,4,48000.0
+2026-09-15,Gaseosa,Gaseosa 1.5 L,8,56000.0
+2026-09-15,Gaseosa,Gaseosa Personal,15,52500.0
+2026-09-16,Acompañante,Ensalada de la Casa,2,8000.0
+2026-09-16,Acompañante,Papas Fritas,2,10000.0
+2026-09-16,Acompañante,Patacones,2,10000.0
+2026-09-16,Acompañante,Porción de Arroz,1,3000.0
+2026-09-16,Almuerzo,Almuerzo Corriente,33,198000.0
+2026-09-16,Almuerzo,Almuerzo Ejecutivo,22,286000.0
+2026-09-16,Almuerzo,Almuerzo Tradicional,24,264000.0
+2026-09-16,Cerveza,Cerveza Club Colombia,1,5500.0
+2026-09-16,Cerveza,Cerveza Águila,4,18000.0
+2026-09-16,Desayuno,Desayuno Especial,5,70000.0
+2026-09-16,Desayuno,Desayuno Sencillo,3,18000.0
+2026-09-16,Desayuno,Desayuno Tradicional,9,108000.0
+2026-09-16,Gaseosa,Gaseosa 1.5 L,7,49000.0
+2026-09-16,Gaseosa,Gaseosa Personal,9,31500.0
+2026-09-17,Acompañante,Ensalada de la Casa,5,20000.0
+2026-09-17,Acompañante,Papas Fritas,4,20000.0
+2026-09-17,Acompañante,Patacones,1,5000.0
+2026-09-17,Acompañante,Porción de Arroz,4,12000.0
+2026-09-17,Almuerzo,Almuerzo Corriente,36,216000.0
+2026-09-17,Almuerzo,Almuerzo Ejecutivo,22,286000.0
+2026-09-17,Almuerzo,Almuerzo Tradicional,27,297000.0
+2026-09-17,Cerveza,Cerveza Club Colombia,3,16500.0
+2026-09-17,Cerveza,Cerveza Águila,1,4500.0
+2026-09-17,Desayuno,Desayuno Especial,5,70000.0
+2026-09-17,Desayuno,Desayuno Sencillo,3,18000.0
+2026-09-17,Desayuno,Desayuno Tradicional,8,96000.0
+2026-09-17,Gaseosa,Gaseosa 1.5 L,5,35000.0
+2026-09-17,Gaseosa,Gaseosa Personal,14,49000.0
+2026-09-18,Acompañante,Ensalada de la Casa,1,4000.0
+2026-09-18,Acompañante,Papas Fritas,3,15000.0
+2026-09-18,Acompañante,Patacones,1,5000.0
+2026-09-18,Acompañante,Porción de Arroz,2,6000.0
+2026-09-18,Almuerzo,Almuerzo Corriente,24,144000.0
+2026-09-18,Almuerzo,Almuerzo Ejecutivo,34,442000.0
+2026-09-18,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-09-18,Cerveza,Cerveza Poker,1,4000.0
+2026-09-18,Desayuno,Desayuno Especial,4,56000.0
+2026-09-18,Desayuno,Desayuno Sencillo,4,24000.0
+2026-09-18,Desayuno,Desayuno Tradicional,5,60000.0
+2026-09-18,Gaseosa,Gaseosa 1.5 L,8,56000.0
+2026-09-18,Gaseosa,Gaseosa Personal,14,49000.0
+2026-09-19,Acompañante,Ensalada de la Casa,1,4000.0
+2026-09-19,Acompañante,Huevo Adicional,4,8000.0
+2026-09-19,Acompañante,Patacones,3,15000.0
+2026-09-19,Acompañante,Porción de Arroz,1,3000.0
+2026-09-19,Almuerzo,Almuerzo Corriente,25,150000.0
+2026-09-19,Almuerzo,Almuerzo Ejecutivo,34,442000.0
+2026-09-19,Almuerzo,Almuerzo Tradicional,24,264000.0
+2026-09-19,Cerveza,Cerveza Poker,2,8000.0
+2026-09-19,Cerveza,Cerveza Águila,1,4500.0
+2026-09-19,Desayuno,Desayuno Especial,3,42000.0
+2026-09-19,Desayuno,Desayuno Sencillo,7,42000.0
+2026-09-19,Desayuno,Desayuno Tradicional,4,48000.0
+2026-09-19,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-09-19,Gaseosa,Gaseosa Personal,12,42000.0
+2026-09-20,Acompañante,Ensalada de la Casa,2,8000.0
+2026-09-20,Acompañante,Huevo Adicional,2,4000.0
+2026-09-20,Acompañante,Papas Fritas,1,5000.0
+2026-09-20,Acompañante,Patacones,1,5000.0
+2026-09-20,Acompañante,Porción de Arroz,1,3000.0
+2026-09-20,Almuerzo,Almuerzo Corriente,23,138000.0
+2026-09-20,Almuerzo,Almuerzo Ejecutivo,27,351000.0
+2026-09-20,Almuerzo,Almuerzo Tradicional,29,319000.0
+2026-09-20,Cerveza,Cerveza Poker,1,4000.0
+2026-09-20,Cerveza,Cerveza Águila,1,4500.0
+2026-09-20,Desayuno,Desayuno Especial,4,56000.0
+2026-09-20,Desayuno,Desayuno Sencillo,8,48000.0
+2026-09-20,Desayuno,Desayuno Tradicional,8,96000.0
+2026-09-20,Gaseosa,Gaseosa 1.5 L,4,28000.0
+2026-09-20,Gaseosa,Gaseosa Personal,10,35000.0
