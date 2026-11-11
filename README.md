@@ -74,7 +74,3 @@ Variable objetivo: ingreso diario (COP). El pronóstico semanal suma siete días
   Su valor es la simulación «qué pasa si»: cuantifica el efecto de cada variable, no una predicción perfecta.
 * Los efectos de las variables son **asociaciones históricas**, no causalidad: subir la venta cruzada requiere una acción comercial que debe validarse con ventas reales.
 
-## Despliegue
-
-**Streamlit Community Cloud** (gratis): suba el repositorio a GitHub → https://share.streamlit.io → *New app* → archivo principal `app.py`.
-Para datos en vivo agregue `DATABASE_URL` en *Settings → Secrets* (`DATABASE_URL = "postgresql://..."`). Sin secreto usa los CSV.
